@@ -3,7 +3,7 @@ title = "HLK-noter"
 baseurl = "http://hlk.morsby.dk"
 theme = "hugo-theme-learn"
 
-ignoreFiles = [ "\\Icon?$", "Icon?" ]
+ignoreFiles = [ "Icon\?$", "Icon\?", "Icon\\r" ]
 
 [params]
   menu = [ "kardiologi", "lungemedicin", "karkirurgi", "thoraxkirurgi", "forelaesning" ]
