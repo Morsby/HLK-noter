@@ -8,7 +8,7 @@ prev = "/prev/path"
 
 +++
 
-## Glycalyx
+## Glycocalyx
 
 Glycocalyx er medbestemmende for kapillærets permeabilitet.
 

@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 set -o errexit #abort if any command fails
+
+# Generate the dist version!
+hugo 
+
 me=$(basename "$0")
 
 
