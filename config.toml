@@ -1,0 +1,9 @@
+languageCode = "da-dk"
+title = "HLK-noter"
+baseurl = "http://hlk.morsby.dk"
+theme = "hugo-theme-learn"
+
+ignoreFiles = [ "\\Icon?$", "Icon?" ]
+
+[params]
+  menu = [ "kardiologi", "lungemedicin", "karkirurgi", "thoraxkirurgi", "forelaesning" ]
