@@ -88,4 +88,4 @@ ALt i alt er behovet dækket ved **30-35 ml/kg/døgn KNaG**
 
 ## Praktisk
 
-Anlæggelse af to venflons: I det ene løber det basale behov – i det andet evt. korrektion.
+Anlæggelse af to venflons: I det ene løber det basale behov – i det andet løber væsker til korrektion af evt. skævheder.
