@@ -68,21 +68,21 @@ Basalt væskebehov, 80 kg
 
 Opgivet ud fra det enkelte stof
 
-| Stof | Mængde |
-|------|------------------ |
-| Vand | 30-35 ml/kg/døgn |
+| Stof           | Mængde             |
+|:---------------|:-------------------|
+| Vand           | 30-35 ml/kg/døgn   |
 | Na<sup>+</sup> | 1-1,5 mmol/kg/døgn |
-| K<sup>+</sup> | 0,5-1 mmol/kg/døgn |
-| Glc | 2g/kg/døgn |
+| K<sup>+</sup>  | 0,5-1 mmol/kg/døgn |
+| Glc            | 2g/kg/døgn         |
 
 Opgivet ud fra mængden af væskeindtag
 
-| Stof | Mængde |
-|------|------------------ |
-| Vand | 30-35 ml/kg/døgn |
-| Na<sup>+</sup> | 40 mmol/l vand |
-| K<sup>+</sup> | 20 mmol/l vand |
-| Glc | 57g /l vand |
+| Stof           | Mængde           |
+|:---------------|:-----------------|
+| Vand           | 30-35 ml/kg/døgn |
+| Na<sup>+</sup> | 40 mmol/l vand   |
+| K<sup>+</sup>  | 20 mmol/l vand   |
+| Glc            | 57g /l vand      |
 
 ALt i alt er behovet dækket ved **30-35 ml/kg/døgn KNaG**
 
