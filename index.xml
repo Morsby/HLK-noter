@@ -404,6 +404,16 @@ timer, renal udskillelse.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Some Title</title>
+      <link>http://hlk.morsby.dk/forelaesning/obj-us-hjerte-lunge-stetoskopi/</link>
+      <pubDate>Wed, 08 Feb 2017 10:16:48 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/obj-us-hjerte-lunge-stetoskopi/</guid>
+      <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Intro til hjertekirurgi</title>
       <link>http://hlk.morsby.dk/forelaesning/intro-til-hjertekirugi/</link>
       <pubDate>Fri, 03 Feb 2017 11:14:55 +0100</pubDate>
@@ -1242,30 +1252,30 @@ timer, renal udskillelse.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Stof&lt;/th&gt;
-&lt;th&gt;Mængde&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Stof&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Mængde&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Vand&lt;/td&gt;
-&lt;td&gt;30-35 ml/kg/døgn&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Vand&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;30-35 ml/kg/døgn&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td&gt;1-1,5 mmol/kg/døgn&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;1-1,5 mmol/kg/døgn&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td&gt;0,5-1 mmol/kg/døgn&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0,5-1 mmol/kg/døgn&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Glc&lt;/td&gt;
-&lt;td&gt;2g/kg/døgn&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Glc&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;2g/kg/døgn&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1275,30 +1285,30 @@ timer, renal udskillelse.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Stof&lt;/th&gt;
-&lt;th&gt;Mængde&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Stof&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Mængde&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Vand&lt;/td&gt;
-&lt;td&gt;30-35 ml/kg/døgn&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Vand&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;30-35 ml/kg/døgn&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td&gt;40 mmol/l vand&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;40 mmol/l vand&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td&gt;20 mmol/l vand&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;20 mmol/l vand&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Glc&lt;/td&gt;
-&lt;td&gt;57g /l vand&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Glc&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;57g /l vand&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1308,6 +1318,266 @@ timer, renal udskillelse.&lt;/p&gt;
 &lt;h2 id=&#34;praktisk&#34;&gt;Praktisk&lt;/h2&gt;
 
 &lt;p&gt;Anlæggelse af to venflons: I det ene løber det basale behov – i det andet løber væsker til korrektion af evt. skævheder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Billeddiagnostik: Perifere arterier og vener</title>
+      <link>http://hlk.morsby.dk/forelaesning/billeddiagnostik-kar/</link>
+      <pubDate>Wed, 08 Feb 2017 08:17:51 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/billeddiagnostik-kar/</guid>
+      <description>
+
+&lt;h2 id=&#34;værktøjskassen&#34;&gt;Værktøjskassen&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Teknik&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Princip&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;UL&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Refleksion af lyd&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;CT&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Rtg&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;MR&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Magnetfelt&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Digital subtraktions angiografi (DSA)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;RTG&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Flebografi&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Rtg&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ET-CT&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Rtg og radioaktive ståler&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;kontrast&#34;&gt;Kontrast&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Teknik&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Kontrast&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Metode&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;UL&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ingen kontrast&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Doppler&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;CT&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Jodholdigt IV v cubiti&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Bolus track&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;MR&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gadolinium&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Subtraktion mellem præ- og postkontrast&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;DSA&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;jodholdigt i a. femoralis&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;subtraktion mellem præ- og postkontrast&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Flebografi&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Jodholdigt&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Injektion under kompression&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;pris&#34;&gt;Pris&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;UL&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;CT&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;MR&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;DSA&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Non-invasin&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Non-invasin&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Non-invasin&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Invasiv&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Billig&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ret dyr&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Dyr&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Dyr&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;diverse&#34;&gt;Diverse&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MR kan ikke bruges til at visualisere kalk&lt;/li&gt;
+&lt;li&gt;CT og MR har 95% sens/spec på 95% for stenoser, fx ved claudicatio&lt;/li&gt;
+&lt;li&gt;CT (med kontrast) er bedst til
+
+&lt;ul&gt;
+&lt;li&gt;CT med kontrast er lidt bedre end MR til dissektioner.
+
+&lt;ul&gt;
+&lt;li&gt;MR kan dog benyttes til kontrol&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;At visualisere kalk&lt;/li&gt;
+&lt;li&gt;Lungeembolier&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;MR er bedst til
+
+&lt;ul&gt;
+&lt;li&gt;Multifasescanninger af kar (CT ville være for strålebelastende)&lt;/li&gt;
+&lt;li&gt;MR uden kontrast til karfremstilling i truncus&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;dsa&#34;&gt;DSA&lt;/h2&gt;
+
+&lt;h3 id=&#34;protokol&#34;&gt;Protokol&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Afdækning/desinfektion&lt;/li&gt;
+&lt;li&gt;Lokalbdøvelse&lt;/li&gt;
+&lt;li&gt;Incision&lt;/li&gt;
+&lt;li&gt;Karpunktur&lt;/li&gt;
+&lt;li&gt;Guidewire&lt;/li&gt;
+&lt;li&gt;Evt. sheath&lt;/li&gt;
+&lt;li&gt;Kateter&lt;/li&gt;
+&lt;li&gt;Rtg. optagelser +/- kontrast&lt;/li&gt;
+&lt;li&gt;Subtraktions af +kontrast fra &amp;ndash;kontrast&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;valg-af-undersøgelse&#34;&gt;Valg af undersøgelse&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kan UL give svaret?
+
+&lt;ul&gt;
+&lt;li&gt;Tilgængeligt og overkommeligt undersøgelsesfelt&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Kan pt tåle CT?
+
+&lt;ul&gt;
+&lt;li&gt;Strålehygiejne&lt;/li&gt;
+&lt;li&gt;Nyrefunktion&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;MR, som alternativet
+
+&lt;ul&gt;
+&lt;li&gt;Nyrefunktion&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;DSA
+
+&lt;ul&gt;
+&lt;li&gt;Ved forventet behov for terapi&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ekkokardiografi</title>
+      <link>http://hlk.morsby.dk/forelaesning/ekkokardiografi/</link>
+      <pubDate>Wed, 08 Feb 2017 09:15:17 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/ekkokardiografi/</guid>
+      <description>
+
+&lt;h2 id=&#34;fordele-og-ulemper&#34;&gt;Fordele og ulemper&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fordele
+
+&lt;ul&gt;
+&lt;li&gt;Ufarlig&lt;/li&gt;
+&lt;li&gt;Her og nu visning af hjertets strutkurer og funktion&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ulemper
+
+&lt;ul&gt;
+&lt;li&gt;Akustisk vindue begrænset af ribben, lunger&lt;/li&gt;
+&lt;li&gt;Høj skannefrekvens &amp;gt;&amp;gt; fin opløsning men lav ultralydspenetration (og omvendt)&lt;/li&gt;
+&lt;li&gt;Udførelse og tolkning kræver erfaring&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;indikationer&#34;&gt;Indikationer&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uafklaret åndenød&lt;/li&gt;
+&lt;li&gt;Uafklaret mislyd ved hjertestetoskopi&lt;/li&gt;
+&lt;li&gt;Uafklarede brystmserter&lt;/li&gt;
+&lt;li&gt;Klinisk mistanke om hjertesvigt&lt;/li&gt;
+&lt;li&gt;Hæmodynamisk ustabil eller shockeret patient&lt;/li&gt;
+&lt;li&gt;Feber med mulig kardiel årsag (endokardit)&lt;/li&gt;
+&lt;li&gt;Emboli af mulig kardiel årsag&lt;/li&gt;
+&lt;li&gt;Hjerterytmeforstyrrelse
+
+&lt;ul&gt;
+&lt;li&gt;Særligt ved AFLI, da AFLI ofte blot er et symptom på anden patologi&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ekkoterminologi&#34;&gt;Ekkoterminologi&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Begreb&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Forklaring&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;EF&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ejection fraction. Normalt 60%.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Gradient&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Trykfald over forsnævring.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
@@ -1372,22 +1642,6 @@ timer, renal udskillelse.&lt;/p&gt;
 &lt;h1 id=&#34;thoraxkirurgi&#34;&gt;Thoraxkirurgi&lt;/h1&gt;
 
 &lt;p&gt;Foreløbig ingen noter.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forelæsninger</title>
-      <link>http://hlk.morsby.dk/forelaesning/</link>
-      <pubDate>Sun, 01 Jan 2017 12:11:45 +0100</pubDate>
-      
-      <guid>http://hlk.morsby.dk/forelaesning/</guid>
-      <description>
-
-&lt;h3 id=&#34;5&#34;&gt;5&lt;/h3&gt;
-
-&lt;h1 id=&#34;forelæsningsnoter&#34;&gt;Forelæsningsnoter&lt;/h1&gt;
-
-&lt;p&gt;Her er de noter, jeg har gidet tage til forelæsninger. De vil være stærkt begrænsede, er jeg bange for &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
