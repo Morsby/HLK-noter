@@ -47,7 +47,8 @@ title = "Billeddiagnostik: Perifere arterier og vener"
     - At visualisere kalk
     - Lungeembolier
 - MR er bedst til
-    - Multifasescanninger af kar
+    - Multifasescanninger af kar (CT ville være for strålebelastende)
+    - MR uden kontrast til karfremstilling i truncus
 
 ## DSA
 
