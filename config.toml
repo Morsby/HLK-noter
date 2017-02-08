@@ -2,7 +2,7 @@ languageCode = "da-dk"
 title = "HLK-noter"
 baseurl = "http://hlk.morsby.dk"
 theme = "hugo-theme-learn"
-
+footnoteReturnLinkContents = "<sup>[tilbage]</sup>"
 ignoreFiles = [ "Icon\\?$", "Icon\\?", "Icon\\r" ]
 
 [params]
