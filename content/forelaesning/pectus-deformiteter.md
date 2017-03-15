@@ -89,7 +89,8 @@ toc = true
 - Ca. 10:1 mænd
 - Osteotomi ved godt halvdelen af ptt.
 
-Behandling
+### Behandling
+
 - Ravitch
     - Protokol
         - Midtlinjeincision
