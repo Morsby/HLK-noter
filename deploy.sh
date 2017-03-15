@@ -231,4 +231,4 @@ sanitize() {
 
 
 ## And now -- let's update the website.
-ssh -p 42 morsbydk@morsby.dk "cd hlk.morsby.dk/ && git pull"
+sh ~/Applications/UnoEuroSSH.sh "cd hlk.morsby.dk/ && git pull"
