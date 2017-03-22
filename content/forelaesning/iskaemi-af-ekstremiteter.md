@@ -127,7 +127,7 @@ Hyppigst af invasive behandlinger er:
 
 ## Resume
 
-| Status        | Symptomer/obj. fund                                | Beh                                        |
+| Status        | Symptomer/obj. fund                                | Behandling                                 |
 |:--------------|:---------------------------------------------------|:-------------------------------------------|
 | Ikke truet    | Normal sensibilitet og bevægelighed                | Afhænging af  sædvanlige indaktioner       |
 | Truet         | Nedsat sensibilitet, men normal bevægelighed       | Behandling inden for dage                  |
