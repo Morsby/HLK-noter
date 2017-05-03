@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoraxkirurgis on HLK-noter</title>
-    <link>http://hlk.morsby.dk/thoraxkirurgi/index.xml</link>
+    <link>http://hlk.morsby.dk/thoraxkirurgi/</link>
     <description>Recent content in Thoraxkirurgis on HLK-noter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Wed, 01 Feb 2017 13:53:27 +0100</lastBuildDate>
-    <atom:link href="http://hlk.morsby.dk/thoraxkirurgi/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://hlk.morsby.dk/thoraxkirurgi/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Thoraxkirurgi</title>
@@ -15,14 +17,7 @@
       <pubDate>Wed, 01 Feb 2017 13:53:27 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/thoraxkirurgi/</guid>
-      <description>
-
-&lt;h3 id=&#34;4&#34;&gt;4&lt;/h3&gt;
-
-&lt;h1 id=&#34;thoraxkirurgi&#34;&gt;Thoraxkirurgi&lt;/h1&gt;
-
-&lt;p&gt;Foreløbig ingen noter.&lt;/p&gt;
-</description>
+      <description>4 Thoraxkirurgi Foreløbig ingen noter.</description>
     </item>
     
   </channel>

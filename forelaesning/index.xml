@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forelaesnings on HLK-noter</title>
-    <link>http://hlk.morsby.dk/forelaesning/index.xml</link>
+    <link>http://hlk.morsby.dk/forelaesning/</link>
     <description>Recent content in Forelaesnings on HLK-noter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 01 Jan 2017 12:11:45 +0100</lastBuildDate>
-    <atom:link href="http://hlk.morsby.dk/forelaesning/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://hlk.morsby.dk/forelaesning/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Forelæsninger</title>
@@ -15,14 +17,7 @@
       <pubDate>Sun, 01 Jan 2017 12:11:45 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/</guid>
-      <description>
-
-&lt;h3 id=&#34;5&#34;&gt;5&lt;/h3&gt;
-
-&lt;h1 id=&#34;forelæsningsnoter&#34;&gt;Forelæsningsnoter&lt;/h1&gt;
-
-&lt;p&gt;Her er de noter, jeg har gidet tage til forelæsninger. De vil være stærkt begrænsede, er jeg bange for &amp;hellip;&lt;/p&gt;
-</description>
+      <description>5 Forelæsningsnoter Her er de noter, jeg har gidet tage til forelæsninger. De vil være stærkt begrænsede, er jeg bange for &amp;hellip;</description>
     </item>
     
     <item>
@@ -31,24 +26,7 @@
       <pubDate>Tue, 31 Jan 2017 11:30:00 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/kardiologiske-us/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Røntgen af thorax&lt;/li&gt;
-&lt;li&gt;CT-thorax&lt;/li&gt;
-&lt;li&gt;CT-koronar angiografi
-
-&lt;ul&gt;
-&lt;li&gt;98% neg. prædiktiv værdi&lt;/li&gt;
-&lt;li&gt;79% pos. prædiktiv værdi&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Koronarangiografi
-
-&lt;ul&gt;
-&lt;li&gt;Fractional flow reserve: Vurdering af om forsnævring har funktionel betydning&lt;/li&gt;
-&lt;li&gt;Intravaskulær ultralyd: Kan se evt. aflejringer i karvæg (inkl. lag i væggen)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;PET-perfusion/uptake: Kan vurdere om karvæg er viable (lammet) eller død. Bruges til vurdering af, om CABG (bypass) kan betale sig.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Røntgen af thorax CT-thorax CT-koronar angiografi  98% neg. prædiktiv værdi 79% pos. prædiktiv værdi  Koronarangiografi  Fractional flow reserve: Vurdering af om forsnævring har funktionel betydning Intravaskulær ultralyd: Kan se evt. aflejringer i karvæg (inkl. lag i væggen)  PET-perfusion/uptake: Kan vurdere om karvæg er viable (lammet) eller død. Bruges til vurdering af, om CABG (bypass) kan betale sig.  </description>
     </item>
     
     <item>
@@ -57,65 +35,9 @@
       <pubDate>Tue, 31 Jan 2017 12:00:00 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/kliniske-retningslinjer/</guid>
-      <description>
-
-&lt;h2 id=&#34;baggrund-for-opgaven&#34;&gt;Baggrund for opgaven&lt;/h2&gt;
-
-&lt;p&gt;Problem: I processen fra videnskabelige artikler til behandlingsvejledninger finder der en
-forenkling sted. Denne proces er det vigtigt for lægen at forstå og
-kende til.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Materiale:
-
-&lt;ul&gt;
-&lt;li&gt;NBV kap 5&lt;/li&gt;
-&lt;li&gt;DBS: Klinisk rapport om hjerteins&lt;/li&gt;
-&lt;li&gt;ESC: Europæisk rapport om heart failure&lt;/li&gt;
-&lt;li&gt;Originale videnskabelige artikler&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;opgaven-lyder&#34;&gt;Opgaven lyder&lt;/h2&gt;
-
-&lt;p&gt;Vurder om  a) NBV, b) DBS, c) ESC guidelines tager stilling til
-følgende&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;hvad er målene med behandling?&lt;/li&gt;
-&lt;li&gt;kan målene evt. prioriteres?&lt;/li&gt;
-&lt;li&gt;Hvad skal man måle på for at vurdere om behandlingen virker?&lt;/li&gt;
-&lt;li&gt;Hvordan skal den behandlende læge vurdere, om behandlingsmålet/-målene nås?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I skal prøve at vurdere hver af de forskellige
-medicinske/kirurgiske(hjerte-tx)/devices (pacemakere, defib, kunstige
-hjerter) behandlinger som finder anvendelse ved kronisk
-hjerteinsufficiens. Lav evt. et skema.&lt;/p&gt;
-
-&lt;h2 id=&#34;format&#34;&gt;Format&lt;/h2&gt;
-
-&lt;p&gt;Introforelæsingen i dag.&lt;/p&gt;
-
-&lt;p&gt;Klinikopholdet laves i grupper, ofte klinikhold.&lt;/p&gt;
-
-&lt;p&gt;Hver gruppe skal som resultat uploade 2 A4-siders besvarelse, hvori
-man anfører navnene og årskort på øvrige  i gruppen.&lt;/p&gt;
-
-&lt;p&gt;Ved den afsluttende gennemgang (se forelæsningsplan) skal hver gruppe
-forberede en kort mundtlig fremlæggelse. Vælg en talsmand.&lt;/p&gt;
-
-&lt;h2 id=&#34;noter&#34;&gt;Noter&lt;/h2&gt;
-
-&lt;p&gt;Venstre ventrikels dysfunktion: Fortolkes af kroppen som blødning
-(efter kamp, jf. sympathicus). Behandling stiler imod at forhindre
-dette.&lt;/p&gt;
-
-&lt;p&gt;proBNP-måling: Forhøjet tyder på hjerteinsufficiens. Halveringstid 2
-timer, renal udskillelse.&lt;/p&gt;
-
-&lt;p&gt;NYHA-klassifikation&lt;/p&gt;
-</description>
+      <description>Baggrund for opgaven Problem: I processen fra videnskabelige artikler til behandlingsvejledninger finder der en forenkling sted. Denne proces er det vigtigt for lægen at forstå og kende til.
+ Materiale:  NBV kap 5 DBS: Klinisk rapport om hjerteins ESC: Europæisk rapport om heart failure Originale videnskabelige artikler   Opgaven lyder Vurder om a) NBV, b) DBS, c) ESC guidelines tager stilling til følgende
+ hvad er målene med behandling?</description>
     </item>
     
     <item>
@@ -124,299 +46,7 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Fri, 03 Feb 2017 08:17:53 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/intro-til-lungemedicin/</guid>
-      <description>
-
-&lt;h2 id=&#34;introduktion&#34;&gt;Introduktion&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hyppigste årsag til henvendelse hos egen læge&lt;/li&gt;
-&lt;li&gt;4. hyppigste årsag til hospitalsindlæggelse&lt;/li&gt;
-&lt;li&gt;Hyppigste sygdom: KOL (ca. 3000 dødsfald per år)
-
-&lt;ul&gt;
-&lt;li&gt;KOL Eksacerbation:
-
-&lt;ul&gt;
-&lt;li&gt;9% døde under indlæggelse&lt;/li&gt;
-&lt;li&gt;19% var døde efter 3 mdr&lt;/li&gt;
-&lt;li&gt;36% var døde efter 12 mdr&lt;/li&gt;
-&lt;li&gt;13,9% blev genindlagt indenfor 1. måned&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;sygdomme&#34;&gt;Sygdomme&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Infektionssygdomme
-
-&lt;ul&gt;
-&lt;li&gt;Tuberkulose
-
-&lt;ul&gt;
-&lt;li&gt;Kan særligt aktiveres af
-
-&lt;ul&gt;
-&lt;li&gt;TNF-alfa-hæmmere &amp;ndash; får nedbrudt granulomer. Screening for TB for behandlingsstart.&lt;/li&gt;
-&lt;li&gt;HIV&lt;/li&gt;
-&lt;li&gt;Alkohol&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Smitterisiko efter ca. 8 timers samvær&lt;/li&gt;
-&lt;li&gt;Sidder ofte &lt;em&gt;apikalt&lt;/em&gt; i lungen&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Pneumoni og pleural effusion&lt;/li&gt;
-&lt;li&gt;Akut bronkoitis&lt;/li&gt;
-&lt;li&gt;Lungeabsces og empyem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Allergi
-
-&lt;ul&gt;
-&lt;li&gt;Rhinitis: Allergisk &amp;ndash; sæsonbetinget (pollen) og helårs (helårsallergener)/Ikke allergisk rhinitis&lt;/li&gt;
-&lt;li&gt;Astma: allergisk/ikke-allergisk&lt;/li&gt;
-&lt;li&gt;Urticaria&lt;/li&gt;
-&lt;li&gt;Fødemiddelallergi&lt;/li&gt;
-&lt;li&gt;Lægemidedlallergi&lt;/li&gt;
-&lt;li&gt;Insektgifte&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;KOL
-
-&lt;ul&gt;
-&lt;li&gt;Kronisk fase&lt;/li&gt;
-&lt;li&gt;Akut eksacerbation&lt;/li&gt;
-&lt;li&gt;Unge der fortsætter med at ryge:
-
-&lt;ul&gt;
-&lt;li&gt;Ca. 25% er modtagelige for rygning og vil udvilke KOL&lt;/li&gt;
-&lt;li&gt;Ca. 50% vil dø af en rygerelateret sygdom&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Bronkieektasier&lt;/li&gt;
-&lt;li&gt;Hoste&lt;/li&gt;
-&lt;li&gt;Dyspnø
-
-&lt;ul&gt;
-&lt;li&gt;Årsager
-
-&lt;ul&gt;
-&lt;li&gt;Kardiologiske&lt;/li&gt;
-&lt;li&gt;Lungemedicinske&lt;/li&gt;
-&lt;li&gt;Anæmmi&lt;/li&gt;
-&lt;li&gt;Kondition/overvægt
-
-&lt;ul&gt;
-&lt;li&gt;Lungevolumen falder pga. vægt ved BMI &amp;gt; ~40.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Interstitielle lungesygdomme (restriktive lungesygdomme)
-
-&lt;ul&gt;
-&lt;li&gt;Sarkoidose&lt;/li&gt;
-&lt;li&gt;Restriktive lungesygdomme kræver TLC-bestemmelse&lt;/li&gt;
-&lt;li&gt;Beskrivele
-
-&lt;ul&gt;
-&lt;li&gt;Nedsat compliance/stift lungevæv/nedsat elasticitet&lt;/li&gt;
-&lt;li&gt;Svært at få luft ned i lungerne&lt;/li&gt;
-&lt;li&gt;Skyldes interstitielle lungesygdomme med fibrosedannelse&lt;/li&gt;
-&lt;li&gt;Fedme, pleuraeksudat, neuromuskulære lidelser&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Udredning til og kontrol af lungetransplantation&lt;/li&gt;
-&lt;li&gt;Lungecancer &amp;ndash; infiltratudredning
-
-&lt;ul&gt;
-&lt;li&gt;Pleural effusion&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Akutte og kroniske sygdomme&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Unge og ældre patienter&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;undersøgelsesmetoder&#34;&gt;Undersøgelsesmetoder&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Spirometri / lungefunktionsundersøgelse
-
-&lt;ul&gt;
-&lt;li&gt;Indikatiner
-
-&lt;ul&gt;
-&lt;li&gt;Symptomer&lt;/li&gt;
-&lt;li&gt;Diagnostik, monitorering og klassifikation af sværhedsgrad og prognosticering&lt;/li&gt;
-&lt;li&gt;Sygdomme med lungemanifestationer&lt;/li&gt;
-&lt;li&gt;Legale indikationer&lt;/li&gt;
-&lt;li&gt;Forebyggelse og behandling&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kontraindikationer
-
-&lt;ul&gt;
-&lt;li&gt;Absoluute
-
-&lt;ul&gt;
-&lt;li&gt;AMI &amp;lt; 4 uger&lt;/li&gt;
-&lt;li&gt;Manglende samtykke&lt;/li&gt;
-&lt;li&gt;Pneumothorax?&lt;/li&gt;
-&lt;li&gt;Graviditet &lt;strong&gt;IKKE&lt;/strong&gt; kontraindikation&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Relative
-
-&lt;ul&gt;
-&lt;li&gt;Fysisk krævende &amp;ndash; pt. skal være egnet&lt;/li&gt;
-&lt;li&gt;Validitetsproblemer ved
-
-&lt;ul&gt;
-&lt;li&gt;Ansigtssmerter&lt;/li&gt;
-&lt;li&gt;Thoraxsmerter&lt;/li&gt;
-&lt;li&gt;Abdominalsmerter&lt;/li&gt;
-&lt;li&gt;Stressinkontinens&lt;/li&gt;
-&lt;li&gt;Demens / manglende forståelse (sprog, børn, psykisk sygdom)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Funktionen afhænger af køn, højde, alder og i mindre grad etnicitet.&lt;/li&gt;
-&lt;li&gt;Normal spirometri: Logistisk vækst (ca.)&lt;/li&gt;
-&lt;li&gt;Anvendelse
-
-&lt;ul&gt;
-&lt;li&gt;Måling af ventilationskapacitet og opdeling i obstruktiv eller mulig restriktiv ventilatorisk insufficiens&lt;/li&gt;
-&lt;li&gt;MålegalFEV1=forceret ekspiratorisk volumen i 1. sekund (liter)&lt;/li&gt;
-&lt;li&gt;FVC = forceret vitalkapictet (liter)&lt;/li&gt;
-&lt;li&gt;FEV1/FVC over 75-80%&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Tilgang
-
-&lt;ul&gt;
-&lt;li&gt;God test? reporucerbar?&lt;/li&gt;
-&lt;li&gt;Sværhedsgrader af obstruktion
-
-&lt;ul&gt;
-&lt;li&gt;Mild: FVC &amp;gt;80% forventet&lt;/li&gt;
-&lt;li&gt;Moderat: FVC &amp;lt;80% forventet&lt;/li&gt;
-&lt;li&gt;Svær: FVC &amp;lt;50 % forventet&lt;/li&gt;
-&lt;li&gt;Meget svær: &amp;lt;30 % forventet&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Obstruktion
-
-&lt;ul&gt;
-&lt;li&gt;Definition
-
-&lt;ul&gt;
-&lt;li&gt;FEV1/FVC &amp;lt; 70% &amp;ndash; eller rettere:&lt;/li&gt;
-&lt;li&gt;FEV/vC &amp;lt; % percentil af referenceværdien (nedre normale grænse)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Udvidet lungefunktionstest
-
-&lt;ul&gt;
-&lt;li&gt;Bruges for at diagnosticere restriktiv lungesygdom via TLC-måling&lt;/li&gt;
-&lt;li&gt;To metoder
-
-&lt;ul&gt;
-&lt;li&gt;Pletysmografi: Boyles lov. Luftens masse konsta.t. Volumen og tryk konstant – kan herved bestemme TLC.&lt;/li&gt;
-&lt;li&gt;Fortydningsmetoder: Indålding af tracergas (CO, HE, N&lt;sub&gt;2&lt;/sub&gt;). Underestimerer lungekapacitet ved svært emfysem. Kan også bestemme diffusionskapaciteten.
-
-&lt;ul&gt;
-&lt;li&gt;Luften fordeles skævt ved empfysem, så volumina kan ikke beregnes ved denne metode.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Reversibilitetstest
-
-&lt;ul&gt;
-&lt;li&gt;Indgift af Beta-2-agonist/anticholinerg for at detektere astma.&lt;/li&gt;
-&lt;li&gt;Kræver stigning ≥ 12% &amp;amp; mindst 200 mL i FEV1 &amp;ndash; så er pt reversibel, dog ikke diagnosticeet astma (kræver mindst 500 mL FEV1-stigning).&lt;/li&gt;
-&lt;li&gt;Kan også benytte inhalationssteroid (særligt ved langvarig astma)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Peak-flow
-
-&lt;ul&gt;
-&lt;li&gt;Definition: Maksimal strømingshastighed under forceret ekspiration. Normalværdi 200-600 l/min&lt;/li&gt;
-&lt;li&gt;Anv: Vurdering af døgnvariation, specielt ved astma. For KOL-patienter vurdering af forværring.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Stetoskopi&lt;/li&gt;
-&lt;li&gt;Saturation/a-gas
-
-&lt;ul&gt;
-&lt;li&gt;Vurdering af
-
-&lt;ul&gt;
-&lt;li&gt;pO&lt;sub&gt;2&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;pCO&lt;sub&gt;2&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;pH-status&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Pulsoxymetri/saturation
-
-&lt;ul&gt;
-&lt;li&gt;pH og CO&lt;sub&gt;2&lt;/sub&gt; er indstillet ca. 30 min efter opstart af nasal O&lt;sub&gt;2&lt;/sub&gt;.&lt;/li&gt;
-&lt;li&gt;Dårlig perifer cirkulation
-
-&lt;ul&gt;
-&lt;li&gt;Kulde&lt;/li&gt;
-&lt;li&gt;Hjertesvigt&lt;/li&gt;
-&lt;li&gt;Svær arteriosclerose eller fx dissektion&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Forgiftninger
-
-&lt;ul&gt;
-&lt;li&gt;CO&lt;sub&gt;2&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;Cyanid&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Anæmi&lt;/li&gt;
-&lt;li&gt;Abnormt hæmoglobin&lt;/li&gt;
-&lt;li&gt;Lav sat &amp;ndash;&amp;gt; stor usikkerhed&lt;/li&gt;
-&lt;li&gt;KOL-pt med truende CO&lt;sub&gt;2&lt;/sub&gt;-forgiftning kan NIV-maske prøves.&lt;/li&gt;
-&lt;li&gt;Hyperventilation: Symptomer kronisk: prikken omkring mund og i fingre&lt;/li&gt;
-&lt;li&gt;Kulmonoxidforgiftning: &amp;gt;20% Hb-CO giver bevidstløshed. Normal ryger 5-8%.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Rtg. thorax / CT&amp;rsquo;
-
-&lt;ul&gt;
-&lt;li&gt;Rtg. af thorax
-
-&lt;ul&gt;
-&lt;li&gt;Affladede diafragmakupler + tøndeformet thorax er tegn på emfysem. Dog obs. unge, der grundet god inspiration kan ligne dette.&lt;/li&gt;
-&lt;li&gt;Fortættede hili kan være sarkoidose, evt. lymfom&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;CT-scanning
-
-&lt;ul&gt;
-&lt;li&gt;HR-CT: Fine snit &amp;ndash; vurdering af emfysem eller fibrose, men man mister enderne af lungerne.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lungescintigrafi: Ventilations/perfusins-skintigrafi
-
-&lt;ul&gt;
-&lt;li&gt;Indikationer
-
-&lt;ul&gt;
-&lt;li&gt;Ved mistanke om lungeemboli (evt. &amp;ldquo;spiral-CT&amp;rdquo;) afhængig af tilgængelighed – skintografi er særlig god ved små embolier (men kun tilgængelig dagtid)&lt;/li&gt;
-&lt;li&gt;Vurdering af bidrag til lungefunktion før operation&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Provokationstests
-
-&lt;ul&gt;
-&lt;li&gt;Histamin&lt;/li&gt;
-&lt;li&gt;Metakolin&lt;/li&gt;
-&lt;li&gt;Mannitol&lt;/li&gt;
-&lt;li&gt;Allergen&lt;/li&gt;
-&lt;li&gt;Anstrengelse (hyperventilationsudløst astma)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Funktionstests
-
-&lt;ul&gt;
-&lt;li&gt;Gangtest&lt;/li&gt;
-&lt;li&gt;Konditionsmålinger / ergospirometri&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kol-og-ilt&#34;&gt;Kol og ilt&lt;/h2&gt;
-
-&lt;p&gt;CO&lt;sub&gt;2&lt;/sub&gt;-narkose omkring 10 kPa. Symptomer: Sløvhed og rødmossethed (CO&lt;sub&gt;2&lt;/sub&gt; er kardilaterende)&lt;/p&gt;
-</description>
+      <description>Introduktion  Hyppigste årsag til henvendelse hos egen læge 4. hyppigste årsag til hospitalsindlæggelse Hyppigste sygdom: KOL (ca. 3000 dødsfald per år)  KOL Eksacerbation:  9% døde under indlæggelse 19% var døde efter 3 mdr 36% var døde efter 12 mdr 13,9% blev genindlagt indenfor 1. måned    Sygdomme  Infektionssygdomme  Tuberkulose  Kan særligt aktiveres af  TNF-alfa-hæmmere &amp;ndash; får nedbrudt granulomer. Screening for TB for behandlingsstart.</description>
     </item>
     
     <item>
@@ -425,282 +55,9 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Fri, 03 Feb 2017 11:14:55 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/intro-til-hjertekirugi/</guid>
-      <description>
-
-&lt;h2 id=&#34;voksen-hjertekirurgi-væsentlige-opgaver&#34;&gt;Voksen hjertekirurgi, væsentlige opgaver&lt;/h2&gt;
-
-&lt;p&gt;Særligt de to første er dominerende.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Koronarkirurgj&lt;/li&gt;
-&lt;li&gt;Klapkirurgi&lt;/li&gt;
-&lt;li&gt;Dissektion/aneurisme&lt;/li&gt;
-&lt;li&gt;Arytmikkirurgi&lt;/li&gt;
-&lt;li&gt;PTEA (Oprensning af blodkar i lungerne)&lt;/li&gt;
-&lt;li&gt;Hjertetransplantation&lt;/li&gt;
-&lt;li&gt;Assist devces
-
-&lt;ul&gt;
-&lt;li&gt;Pacemakere er kardiologisk&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;De fleste indgreb kræver&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sternotomi (sjældent thorakotomi)&lt;/li&gt;
-&lt;li&gt;Hjerte-lungemaskine (HLM) = ekstrakorporalcirkulation (ECC)&lt;/li&gt;
-&lt;li&gt;Forberedelse for tilkobling til HLM &amp;ndash; aorta- og venekanylsering&lt;/li&gt;
-&lt;li&gt;Kardioplegi (hjertelammelse)&lt;/li&gt;
-&lt;li&gt;Postoperative dræn
-
-&lt;ul&gt;
-&lt;li&gt;Perikardiet: For at modvirke tamponade (bløder ca. 4-800 mL det første døgn)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;indikationer&#34;&gt;Indikationer&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Når PCI ikke er muligt&lt;/li&gt;
-&lt;li&gt;Koronar-bypass skal være mulig&lt;/li&gt;
-&lt;li&gt;Hovedstammestenose (LCA)&lt;/li&gt;
-&lt;li&gt;Patienter inddeles i 1-, 2- eller 3-karsyge på koronarkar (RCA, LAD, CX)
-
-&lt;ul&gt;
-&lt;li&gt;1-/2-karsyge
-
-&lt;ul&gt;
-&lt;li&gt;Pt. med LAD-involvering med diffuse, langstrakt stenose el. okklusion&lt;/li&gt;
-&lt;li&gt;På kort sigt er PCI bedre, men kirurgi vinder på længere sigt&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;3-karssygdom (prognoseforbedring ved EF% &amp;lt; 50)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Patienter med DM&lt;/li&gt;
-&lt;li&gt;PCI-failure&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kirurgiske-behandlingsmuligheder&#34;&gt;Kirurgiske behandlingsmuligheder&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CABG (Coronary Artery Bypass Grafting)
-
-&lt;ul&gt;
-&lt;li&gt;+ Hjerte-lunge-maskine&lt;/li&gt;
-&lt;li&gt;+ Sternotomi&lt;/li&gt;
-&lt;li&gt;Fordele
-
-&lt;ul&gt;
-&lt;li&gt;Stillestående og blodtomt hjertekirurg
-
-&lt;ul&gt;
-&lt;li&gt;Bedre anatsomosekvalitet&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Ulemper
-
-&lt;ul&gt;
-&lt;li&gt;TAng på aorta &amp;ndash; embolier (kalkplaques under tangen) &amp;ndash; CNS-påvirkning&lt;/li&gt;
-&lt;li&gt;Øget sysemisk inflammatorisk respons&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;OPCAB (Off Pump Coronary Arrtery Bypass)
-
-&lt;ul&gt;
-&lt;li&gt;- HLM&lt;/li&gt;
-&lt;li&gt;+ Sternotomi&lt;/li&gt;
-&lt;li&gt;Kræver stabiliseringssystem (octopus) &amp;ndash; kan suge fast på karrene og immobilisere disse dele&lt;/li&gt;
-&lt;li&gt;Fordele
-
-&lt;ul&gt;
-&lt;li&gt;Mindsker det systemiske inflammatoriske respons&lt;/li&gt;
-&lt;li&gt;Berøring af aorta kan undåges&lt;/li&gt;
-&lt;li&gt;Færre cerebrovaskulære insulter&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Ulemper
-
-&lt;ul&gt;
-&lt;li&gt;Besværligere indgreb&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;MIDCAB&lt;/li&gt;
-&lt;li&gt;TECAB&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;cabg&#34;&gt;CABG&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ca 80% af koronarkirugien på SKS&lt;/li&gt;
-&lt;li&gt;Sternotomi&lt;/li&gt;
-&lt;li&gt;HLM&lt;/li&gt;
-&lt;li&gt;Elektivt hjertestop
-
-&lt;ul&gt;
-&lt;li&gt;Kardioplegi
-
-&lt;ul&gt;
-&lt;li&gt;Høj K&lt;sup&gt;+&lt;/sup&gt; (ca. 20 mM) &amp;ndash; standser øjeblikkeligt&lt;/li&gt;
-&lt;li&gt;Krystalloid eller blod&lt;/li&gt;
-&lt;li&gt;Koldt eller varmt&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Standard:
-
-&lt;ul&gt;
-&lt;li&gt;LIMA til LAD&lt;/li&gt;
-&lt;li&gt;Vene til resten&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;graft-materiale&#34;&gt;Graft materiale&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;V. saphena magna
-
-&lt;ul&gt;
-&lt;li&gt;Typisk bruges nu en &amp;ldquo;fed&amp;rdquo; vene (inkl. adventitia)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;V. saphena parva&lt;/li&gt;
-&lt;li&gt;LIMA = a. thoracica interna&lt;/li&gt;
-&lt;li&gt;RIMA = right internal mammary artery&lt;/li&gt;
-&lt;li&gt;A. radialis (ved varicer i V. saphena magna, ortopædkirurgier med fjernse af venen)
-
-&lt;ul&gt;
-&lt;li&gt;Kræver Ally&amp;rsquo;s test(?) &amp;ndash; at a. ulnaris kan overtage forsyning af hånden&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;hjerteklapsygdomme-hos-voksne&#34;&gt;Hjerteklapsygdomme hos voksne&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aortaklap
-
-&lt;ul&gt;
-&lt;li&gt;Hyppigste kirurgi&lt;/li&gt;
-&lt;li&gt;3 klapper (3-4% har 2)&lt;/li&gt;
-&lt;li&gt;Arealet af aortaostiet, normalt: 3-4 cm&lt;sup&gt;2&lt;/sup&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Behandling ved areal under 1 cm&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Aortastenose
-
-&lt;ul&gt;
-&lt;li&gt;Symptomer
-
-&lt;ul&gt;
-&lt;li&gt;Dyspnø
-
-&lt;ul&gt;
-&lt;li&gt;Lungestase/lungeødem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Angina pectoris
-
-&lt;ul&gt;
-&lt;li&gt;Grundet tyk v. ventrikel, dårlig forsyning af den endokardielle del&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kardial synkope
-
-&lt;ul&gt;
-&lt;li&gt;Manglende evne til at øge minutvolumen ved arbejde – dilatation af kar i muskler fører til BT-fald og nedsat cerebral perfusion.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Aortainsufficiens
-
-&lt;ul&gt;
-&lt;li&gt;Symptomer
-
-&lt;ul&gt;
-&lt;li&gt;Dyspnø&lt;/li&gt;
-&lt;li&gt;Dilatation af hjertet&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Mitralklap
-
-&lt;ul&gt;
-&lt;li&gt;Næsthyppigst&lt;/li&gt;
-&lt;li&gt;2 klapper&lt;/li&gt;
-&lt;li&gt;Mitralinsufficiens
-
-&lt;ul&gt;
-&lt;li&gt;Symptomer
-
-&lt;ul&gt;
-&lt;li&gt;Dyspnø&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Trikuspidalklappen&lt;/li&gt;
-&lt;li&gt;Pulmonalklappen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;behandling&#34;&gt;Behandling&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aortaklappen
-
-&lt;ul&gt;
-&lt;li&gt;Kunstig hjerteklap, mekanisk/biologisk:
-
-&lt;ul&gt;
-&lt;li&gt;St. Jude Medical klap (mekanisk)
-
-&lt;ul&gt;
-&lt;li&gt;Holder længere tid end biologiske. Grænse under 60 år (med modifikationer.)&lt;/li&gt;
-&lt;li&gt;Kræver AK-behandling (warfarin). INR måles 1 gang mdt.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Carpentier Edwards (biologisk)
-
-&lt;ul&gt;
-&lt;li&gt;Holder kortere tid (5-10 år) end mekaniske. Grænse over 60 år (med modifikationer.)&lt;/li&gt;
-&lt;li&gt;Kræver ikke AK-behandling, bare hjetemagnyl 3-6 mdr.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Indsættes ved
-
-&lt;ul&gt;
-&lt;li&gt;sterniotomi&lt;/li&gt;
-&lt;li&gt;TAVI (transcatheter aortic valve implantation)
-
-&lt;ul&gt;
-&lt;li&gt;via transapikalt eller a. femoralis&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Komplikationer til hjerteklapproteser
-
-&lt;ul&gt;
-&lt;li&gt;Trombosering/embolisering&lt;/li&gt;
-&lt;li&gt;Blødning (for meget AK-beh)&lt;/li&gt;
-&lt;li&gt;Infektion (proteseklapendocardit)
-
-&lt;ul&gt;
-&lt;li&gt;AB-profylakse ved indgreb, inkl. tandlæge&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Paravalvulær lækage&lt;/li&gt;
-&lt;li&gt;Støj&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Mitralinsufficiens
-
-&lt;ul&gt;
-&lt;li&gt;Annuloplastik
-
-&lt;ul&gt;
-&lt;li&gt;Ring omkring ostiet&lt;/li&gt;
-&lt;li&gt;Kungstige chrodae&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;thorakal-aortadissektion&#34;&gt;Thorakal aortadissektion&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Type A: Rift i aorta ascendens &amp;ndash; akut operation.&lt;/li&gt;
-&lt;li&gt;Type B: Rift i aorta descendens (typisk efter a. subclavia sin) &amp;ndash; konservativ behandling (tryk &amp;lt; 120 mmHg og smertebeh.)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Voksen hjertekirurgi, væsentlige opgaver Særligt de to første er dominerende.
+ Koronarkirurgj Klapkirurgi Dissektion/aneurisme Arytmikkirurgi PTEA (Oprensning af blodkar i lungerne) Hjertetransplantation Assist devces  Pacemakere er kardiologisk   De fleste indgreb kræver
+ Sternotomi (sjældent thorakotomi) Hjerte-lungemaskine (HLM) = ekstrakorporalcirkulation (ECC) Forberedelse for tilkobling til HLM &amp;ndash; aorta- og venekanylsering Kardioplegi (hjertelammelse) Postoperative dræn  Perikardiet: For at modvirke tamponade (bløder ca. 4-800 mL det første døgn)   Indikationer  Når PCI ikke er muligt Koronar-bypass skal være mulig Hovedstammestenose (LCA) Patienter inddeles i 1-, 2- eller 3-karsyge på koronarkar (RCA, LAD, CX)  1-/2-karsyge  Pt.</description>
     </item>
     
     <item>
@@ -709,166 +66,8 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Fri, 03 Feb 2017 13:15:34 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/intro-til-thoraxkirugi/</guid>
-      <description>
-
-&lt;p&gt;Klassisk thoraxkirurgi behandler/foretager&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lungecancer&lt;/li&gt;
-&lt;li&gt;Eosophaguscancer&lt;/li&gt;
-&lt;li&gt;Mesotheliomer&lt;/li&gt;
-&lt;li&gt;Mediastinale tumorer&lt;/li&gt;
-&lt;li&gt;Fjernelse af lungemetastaser (fra sarkomer, coloncancer, nyrecancer etc.)&lt;/li&gt;
-&lt;li&gt;Pneumothorax&lt;/li&gt;
-&lt;li&gt;Hydrothorax, hæmothorax, empyem&lt;/li&gt;
-&lt;li&gt;Traumatologi&lt;/li&gt;
-&lt;li&gt;Lungebiopsier (ifm. udredning)&lt;/li&gt;
-&lt;li&gt;Pleurabiopsier (hyppigst obs. mesothelium)&lt;/li&gt;
-&lt;li&gt;Pectus excavatum (tragtbryst)&lt;/li&gt;
-&lt;li&gt;Pectus carinatum (fuglebryst)&lt;/li&gt;
-&lt;li&gt;Sympatectomier (ansigtsrødmen, sved)&lt;/li&gt;
-&lt;li&gt;Trachealresektioner&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;lungecancer&#34;&gt;Lungecancer&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lige hyppigt hos mænd og kvinder&lt;/li&gt;
-&lt;li&gt;Skyldes langt overvejende rygning&lt;/li&gt;
-&lt;li&gt;Oftest stadie IV på udredningstidspunkt
-
-&lt;ul&gt;
-&lt;li&gt;Kun ca. 20% kan opereres (stadie &amp;lt; IV)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Overlevelse
-
-&lt;ul&gt;
-&lt;li&gt;Samlet 5-års overlvelse ca. 11%&lt;/li&gt;
-&lt;li&gt;Efter operation ca. 44%&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Typeinddeling
-
-&lt;ul&gt;
-&lt;li&gt;Ikke-småcellet &amp;ndash; 83% &amp;ndash; potentielt operabel&lt;/li&gt;
-&lt;li&gt;Småcellet - 13% &amp;ndash; onkologisk behandling&lt;/li&gt;
-&lt;li&gt;Andre &amp;ndash; 4%&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Stadieinddeling
-
-&lt;ul&gt;
-&lt;li&gt;Baggrund
-
-&lt;ul&gt;
-&lt;li&gt;Vigtigt med korret staging
-
-&lt;ul&gt;
-&lt;li&gt;Beh (op vs ikke-op)&lt;/li&gt;
-&lt;li&gt;Opfølgning&lt;/li&gt;
-&lt;li&gt;Forskning&lt;/li&gt;
-&lt;li&gt;Kvalitet&lt;/li&gt;
-&lt;li&gt;Etc&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;TNM-klassifikation&lt;/li&gt;
-&lt;li&gt;Udredning
-
-&lt;ul&gt;
-&lt;li&gt;Rtg. af thorax&lt;/li&gt;
-&lt;li&gt;CT thorax/øvre abdomen&lt;/li&gt;
-&lt;li&gt;PET scanning&lt;/li&gt;
-&lt;li&gt;Bronkoskopi&lt;/li&gt;
-&lt;li&gt;Transtorakal CT-vejledt finnalsbiopsi&lt;/li&gt;
-&lt;li&gt;Endoslopisk ultralyd (EBUS) &amp;ndash; mediastinale lymfeknuder
-
-&lt;ul&gt;
-&lt;li&gt;Obs. spredning &amp;ndash; medfører inoperabelitet&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Stadieinddeling (&lt;em&gt;vigtigt&lt;/em&gt;)
-
-&lt;ul&gt;
-&lt;li&gt;I : Mindre tumorer, minus spredning 5-10%&lt;/li&gt;
-&lt;li&gt;II: Lidt større, evt. spredning til perifere 10%&lt;/li&gt;
-&lt;li&gt;III : Lidt søtrre ednu, evt. indvækst i thoraxvæg
-
-&lt;ul&gt;
-&lt;li&gt;IIIA: 20% operabel&lt;/li&gt;
-&lt;li&gt;IIIB: Inoperabel&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;IV: Inoperabel&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;behandling&#34;&gt;Behandling&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kirurgi
-
-&lt;ul&gt;
-&lt;li&gt;Radikal kirurgi gavner&lt;/li&gt;
-&lt;li&gt;Ikke-radikal kirurgi gavner ikke&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Pallierende&lt;/li&gt;
-&lt;li&gt;Kemoterapi
-
-&lt;ul&gt;
-&lt;li&gt;Alm (u. kirurgi)&lt;/li&gt;
-&lt;li&gt;Adjuverende (efter op.)&lt;/li&gt;
-&lt;li&gt;Neoadjuverende (før op.)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Strålebehandling&lt;/li&gt;
-&lt;li&gt;RFA, MWA (microwave ablation) &amp;ndash; skrøbelige pt.&lt;/li&gt;
-&lt;li&gt;Ingen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Overvejelser:
-- Operabilitet
-    - Teknisk (resektabel)
-    - Fysiologisk
-        - Lungefunktion. FEV-1, DLCO
-        - Hjertesygdom: CCS-, NYHA-klassifikation
-        - CO-morbiditet: Diabetes, alkohol, anden cancer
-        - Alder: Fysiologisk alder vigtigere end reel alder
-- Operativ teknik
-    - Adgange
-        - Anterior torakotomi
-        - Posterior torakotomi (sjælden, mere omfattende)
-        - Thorakoskopisk (VATS) (ca 60% af lobektomier)
-            - Kontraindikationer
-                - Tumor &amp;gt; 6 cm
-                - Neoadjuverende kemo-/stråleterapi
-                - CT: Store lymfeknuder i hilus
-                - Centrale tumorer
-    - Resektionens størrelse
-        - Kileresektion
-        - Lobectomi (langt hyppigst)
-        - Pneumonektomi
-        - Segmentresektion
-        - Thoraxvægresektion
-        - Udvidet resektion (kontraindiceret ved fjernspredning)
-            - Thoraxvæg
-            - Pericardie
-            - Diaphragma
-    - Dobbeltløbet intubation (Carlén tube)
-        - Kan selektivt give luft på venstre/højre side
-            - Hø. side syg &amp;ndash; luk for luft på hø. side&lt;/p&gt;
-
-&lt;h3 id=&#34;komplikationer&#34;&gt;Komplikationer&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Smerter&lt;/li&gt;
-&lt;li&gt;Blødning&lt;/li&gt;
-&lt;li&gt;Infektion&lt;/li&gt;
-&lt;li&gt;Lungeødem&lt;/li&gt;
-&lt;li&gt;Sekretstagnation&lt;/li&gt;
-&lt;li&gt;Arytmi (AFLI)&lt;/li&gt;
-&lt;li&gt;AMI&lt;/li&gt;
-&lt;li&gt;Emboli&lt;/li&gt;
-&lt;li&gt;Bronco-pleural fistel&lt;/li&gt;
-&lt;li&gt;Død&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Klassisk thoraxkirurgi behandler/foretager
+ Lungecancer Eosophaguscancer Mesotheliomer Mediastinale tumorer Fjernelse af lungemetastaser (fra sarkomer, coloncancer, nyrecancer etc.) Pneumothorax Hydrothorax, hæmothorax, empyem Traumatologi Lungebiopsier (ifm. udredning) Pleurabiopsier (hyppigst obs. mesothelium) Pectus excavatum (tragtbryst) Pectus carinatum (fuglebryst) Sympatectomier (ansigtsrødmen, sved) Trachealresektioner  Lungecancer  Lige hyppigt hos mænd og kvinder Skyldes langt overvejende rygning Oftest stadie IV på udredningstidspunkt  Kun ca. 20% kan opereres (stadie &amp;lt; IV)  Overlevelse  Samlet 5-års overlvelse ca.</description>
     </item>
     
     <item>
@@ -877,8 +76,7 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Mon, 06 Feb 2017 08:14:56 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/basal-ul-scan/</guid>
-      <description>&lt;p&gt;Ret ubrugelig forelæsning &amp;hellip;&lt;/p&gt;
-</description>
+      <description>Ret ubrugelig forelæsning &amp;hellip;</description>
     </item>
     
     <item>
@@ -887,255 +85,9 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Mon, 06 Feb 2017 09:15:43 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/intro-til-anaestesi/</guid>
-      <description>
-
-&lt;h2 id=&#34;arbejdsopgaver&#34;&gt;Arbejdsopgaver&lt;/h2&gt;
-
-&lt;p&gt;Tænker ABCDE.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I forbindelse med operation
-
-&lt;ul&gt;
-&lt;li&gt;Præoperativ vurdering&lt;/li&gt;
-&lt;li&gt;Anæstesi/sedation&lt;/li&gt;
-&lt;li&gt;Postoperativ behandling/observation&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Akutte og kroniske smerter&lt;/li&gt;
-&lt;li&gt;Akut medicin og intensiv terapi&lt;/li&gt;
-&lt;li&gt;Væske- og elektrolytbehandling&lt;/li&gt;
-&lt;li&gt;Ledsagelse af traume- og intensivpatienter&lt;/li&gt;
-&lt;li&gt;Præhospital akutmedicin, traume og visitation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vurdering af ABCDE&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A: Fri/obstruerede luftveje.&lt;/li&gt;
-&lt;li&gt;B: Regelmæssig vejrtrækning, egale bevægelser, hypo-/hyperventilation, cyanose&lt;/li&gt;
-&lt;li&gt;C: Bleg, klam, kold, BT, kapillærrespons&lt;/li&gt;
-&lt;li&gt;D: Lammelser, bevidsthedstilstand, neurologiske udfald. Blodsukker?&lt;/li&gt;
-&lt;li&gt;E: Væsker, brandsår, skader&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;præoperativt-tilsyn&#34;&gt;Præoperativt tilsyn&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Den aktuelle lidelse/operation&lt;/li&gt;
-&lt;li&gt;Komorbiditet
-
-&lt;ul&gt;
-&lt;li&gt;ASA-klassifikation
-
-&lt;ul&gt;
-&lt;li&gt;ASA -I og -II kan direkte udskrives fra opvågningen, derover skal konfereres med læge.&lt;/li&gt;
-&lt;li&gt;ASA III: AMI, PCI-behandling o.l. for &amp;gt; 3 mdr. siden&lt;/li&gt;
-&lt;li&gt;ASA IV: AMI, PCI, TCI &amp;lt; 3 mdr siden.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Anamnese&lt;/li&gt;
-&lt;li&gt;Objektivt (&lt;em&gt;luftveje&lt;/em&gt; ifht. anæstesi)&lt;/li&gt;
-&lt;li&gt;Evt. supplerende undersøgelser
-
-&lt;ul&gt;
-&lt;li&gt;A-gas&lt;/li&gt;
-&lt;li&gt;EKKO&lt;/li&gt;
-&lt;li&gt;Blodprøver (fx ved diuretikabehandling)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Information&lt;/li&gt;
-&lt;li&gt;Samtykke&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;luftvejsvurdering&#34;&gt;Luftvejsvurdering&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Maskeventilation?
-
-&lt;ul&gt;
-&lt;li&gt;Fuldskæg&lt;/li&gt;
-&lt;li&gt;Snorken&lt;/li&gt;
-&lt;li&gt;Søvnapnøø&lt;/li&gt;
-&lt;li&gt;Strålebehandling&lt;/li&gt;
-&lt;li&gt;BMI &amp;gt;30 kg/m&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;Mallampati III-IV
-
-&lt;ul&gt;
-&lt;li&gt;Kan ikke se (meget af) ganebuer/uvula&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kan ikke underbide&lt;/li&gt;
-&lt;li&gt;Højere alder&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Intubation?
-
-&lt;ul&gt;
-&lt;li&gt;Mundåbning
-
-&lt;ul&gt;
-&lt;li&gt;Under 4cm skal vurderes&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Thyromental afstand&lt;/li&gt;
-&lt;li&gt;Mallampati&lt;/li&gt;
-&lt;li&gt;Nakkebevægelighed&lt;/li&gt;
-&lt;li&gt;Kan ike underbide&lt;/li&gt;
-&lt;li&gt;Tidl vanskelig intubation&lt;/li&gt;
-&lt;li&gt;Højt BMI&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;postoperativ-risiko&#34;&gt;Postoperativ risiko&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Over 80% af dødsfald i postoperativ periode forekommer hos pt. med høj præoperativ risiko.
-
-&lt;ul&gt;
-&lt;li&gt;Akut kolonkirurgi: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; får postop. medicinsk komplikation&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; dør indenfor 30 dage efter operation&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Risikoen ved selve narkosen er minimal.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;komplikationer&#34;&gt;Komplikationer&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ventrikelindhold (syre) i lungerne
-
-&lt;ul&gt;
-&lt;li&gt;Svær pneumonitis, &amp;ldquo;Shocklunge&amp;rdquo; (Mendelsons syndrom)&lt;/li&gt;
-&lt;li&gt;Især ved fast fødeindtag&lt;/li&gt;
-&lt;li&gt;Profylakse
-
-&lt;ul&gt;
-&lt;li&gt;Faste&lt;/li&gt;
-&lt;li&gt;Ventikelaspiration &lt;em&gt;før&lt;/em&gt; anæstesi (ventrikelsonde)&lt;/li&gt;
-&lt;li&gt;Hæmme ventrikelsekretion&lt;/li&gt;
-&lt;li&gt;Speciel anæstesiteknik (&lt;em&gt;crash induction&lt;/em&gt;)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;fasteregler&#34;&gt;Fasteregler&lt;/h2&gt;
-
-&lt;p&gt;For at undgå aspiration&lt;/p&gt;
-
-&lt;p&gt;Børn og voksne, (akut) og elektiv kirurgi
-- Fast føde, tykke væsker: 6 timer
-- Modermælk: 4 timer
-- Klare væsker 2 timer&lt;/p&gt;
-
-&lt;h2 id=&#34;anæstesityper&#34;&gt;Anæstesityper&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Generel anæstesi
-
-&lt;ul&gt;
-&lt;li&gt;Metoder
-
-&lt;ul&gt;
-&lt;li&gt;Inhalation: Sevofluran&lt;/li&gt;
-&lt;li&gt;Intravenøs: Propofol, fentanyl/remifentanyl (sidstnævnte hurtig metabolisme)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kræver
-
-&lt;ul&gt;
-&lt;li&gt;Sovemedicin&lt;/li&gt;
-&lt;li&gt;Smertestillende&lt;/li&gt;
-&lt;li&gt;Evt. relaksantia (især abdominalkirurgi)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Regional anæstesi
-
-&lt;ul&gt;
-&lt;li&gt;Centrale blokader (spinal/epidural)&lt;/li&gt;
-&lt;li&gt;Perifere blok (ex. axillaris/femoralis)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;monitorering&#34;&gt;Monitorering&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Overvåges af uddannet personale&lt;/li&gt;
-&lt;li&gt;Som minimum saturationsmåler&lt;/li&gt;
-&lt;li&gt;Oftest 3 ting
-
-&lt;ul&gt;
-&lt;li&gt;SAT&lt;/li&gt;
-&lt;li&gt;EKG 3-5 afledninger&lt;/li&gt;
-&lt;li&gt;Non-invasivt BT&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;postoperativ-monitorering&#34;&gt;Postoperativ monitorering&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Opvågn fra anæstesiologi&lt;/li&gt;
-&lt;li&gt;Behandling af kvalme/smerte
-
-&lt;ul&gt;
-&lt;li&gt;Benytter typisk flere stoffer ad gangen for at ramme flere receptorer.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Observation for komplikationer
-
-&lt;ul&gt;
-&lt;li&gt;Blødning&lt;/li&gt;
-&lt;li&gt;Urinretention&lt;/li&gt;
-&lt;li&gt;Etc.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;intensiv-terapi&#34;&gt;Intensiv terapi&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Anæstesiologer og stamafdelingens læger&lt;/li&gt;
-&lt;li&gt;Intensiv behandling og overvågning, typisk 1 sygeplejerske per patient&lt;/li&gt;
-&lt;li&gt;ABC-stabilisering&lt;/li&gt;
-&lt;li&gt;Behandling&lt;/li&gt;
-&lt;li&gt;Væske og ernæring&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;overflytning-til-intensiv&#34;&gt;Overflytning til intensiv&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kontakt bagvagt&lt;/li&gt;
-&lt;li&gt;Konfereres med anæstesiologi
-
-&lt;ul&gt;
-&lt;li&gt;Vil patienten få gavn af intensiv teapi?&lt;/li&gt;
-&lt;li&gt;Ønsker patienten intensiv terapi?&lt;/li&gt;
-&lt;li&gt;Begrænsninger i behandlingsmuligheder?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Typisk patienter med ABCD-problemer&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;a-gas-erc-guidelines&#34;&gt;A-gas (ERC guidelines)&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Hvad er det for en patient?&lt;/li&gt;
-&lt;li&gt;Hypoxæmi?&lt;/li&gt;
-&lt;li&gt;pH?&lt;/li&gt;
-&lt;li&gt;pCO&lt;sub&gt;2&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;BE?&lt;/li&gt;
-&lt;li&gt;Konklusion?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;præhospital&#34;&gt;Præhospital&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;9 lægebiler i Region Midt&lt;/li&gt;
-&lt;li&gt;3 lægehelikoptere i DK&lt;/li&gt;
-&lt;li&gt;Speciallæger i anæstesiologi (eller tæt på)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;præhospital-abcde&#34;&gt;Præhospital ABCDE&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mange medicinske kald&lt;/li&gt;
-&lt;li&gt;Traumer (trafik, vold, brand, ulykke)&lt;/li&gt;
-&lt;li&gt;Akut behandling, overblik, visitation&lt;/li&gt;
-&lt;li&gt;Behandling færdiggøres på stedet?&lt;/li&gt;
-&lt;li&gt;Udløsning af beredskabsplan?&lt;/li&gt;
-&lt;li&gt;Forberede modtagelse på hospitalet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Arbejdsopgaver Tænker ABCDE.
+ I forbindelse med operation  Præoperativ vurdering Anæstesi/sedation Postoperativ behandling/observation  Akutte og kroniske smerter Akut medicin og intensiv terapi Væske- og elektrolytbehandling Ledsagelse af traume- og intensivpatienter Præhospital akutmedicin, traume og visitation  Vurdering af ABCDE
+ A: Fri/obstruerede luftveje. B: Regelmæssig vejrtrækning, egale bevægelser, hypo-/hyperventilation, cyanose C: Bleg, klam, kold, BT, kapillærrespons D: Lammelser, bevidsthedstilstand, neurologiske udfald. Blodsukker? E: Væsker, brandsår, skader  Præoperativt tilsyn  Den aktuelle lidelse/operation Komorbiditet  ASA-klassifikation  ASA -I og -II kan direkte udskrives fra opvågningen, derover skal konfereres med læge.</description>
     </item>
     
     <item>
@@ -1144,187 +96,9 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Mon, 06 Feb 2017 11:14:46 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/basal-vaeskebehandling/</guid>
-      <description>
-
-&lt;h2 id=&#34;glycocalyx&#34;&gt;Glycocalyx&lt;/h2&gt;
-
-&lt;p&gt;Glycocalyx er medbestemmende for kapillærets permeabilitet.&lt;/p&gt;
-
-&lt;p&gt;Glycocalyx skades ved&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;reperfusions-skade&lt;/li&gt;
-&lt;li&gt;traume/inflammation&lt;/li&gt;
-&lt;li&gt;LDL&lt;/li&gt;
-&lt;li&gt;Hypervolæmi &amp;ndash;&amp;gt; ANP&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;væsketyper&#34;&gt;Væsketyper&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Krystalloider med Na&lt;sup&gt;+&lt;/sup&gt;.
-
-&lt;ul&gt;
-&lt;li&gt;Eksempler
-
-&lt;ul&gt;
-&lt;li&gt;NaCl, Ringer acetat/laktat, K&lt;sup&gt;+&lt;/sup&gt;-Na&lt;sup&gt;+&lt;/sup&gt;-Glucose, etc.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Bliver i ECV grundet Na&lt;sup&gt;+&lt;/sup&gt;/K&lt;sup&gt;+&lt;/sup&gt;-pumpen
-
-&lt;ul&gt;
-&lt;li&gt;Ca. &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;-&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; af indgiven væske vil derfor blive i plasmavolumen, resten i interstitiel væske
-
-&lt;ul&gt;
-&lt;li&gt;Afhængig af glycocalyx og eksisterende væskevolumen.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kolloider (tykke væsker) &amp;ndash; plasmaexpandere
-
-&lt;ul&gt;
-&lt;li&gt;Eksempler
-
-&lt;ul&gt;
-&lt;li&gt;Voluven (syntetisk kolloider)&lt;/li&gt;
-&lt;li&gt;Albumin&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Bliver (ideelt set) i blodbanen. Dog ikke ved skade på glycocalyx.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Glucose
-
-&lt;ul&gt;
-&lt;li&gt;Fordeler sig i alle væskefaser (plasma, interstitielt væske, ICV)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;KCl
-
-&lt;ul&gt;
-&lt;li&gt;Fordeler sig i ICV&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;det-basale-behov-for-vand-og-salte-eksempler&#34;&gt;Det basale behov for vand og salte? Eksempler&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Behov for Na&lt;sup&gt;+&lt;/sup&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1,0-1,5 mmol/kg/døgn&lt;/li&gt;
-&lt;li&gt;Dagligt Na&lt;sup&gt;+&lt;/sup&gt;-behov hos rask mand på 80 kg
-
-&lt;ul&gt;
-&lt;li&gt;50-150 mmol (1 L 0,9% NaCl-vand indeholder 154)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Behov for K+
-
-&lt;ul&gt;
-&lt;li&gt;Lidt under 1 mmol/kg/døgn&lt;/li&gt;
-&lt;li&gt;Dagligt K&lt;sup&gt;+&lt;/sup&gt;-behov hos rask mand på 80 kg
-
-&lt;ul&gt;
-&lt;li&gt;40-80 mmol (1L )&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Behov for diurese
-
-&lt;ul&gt;
-&lt;li&gt;Rask mand, 80 kg
-
-&lt;ul&gt;
-&lt;li&gt;500-750 mL/døgn&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Minimum, raske: 0,4 ml/kg/time&lt;/li&gt;
-&lt;li&gt;Minimum, syge (katabole): 1-1,5 ml/kg/time&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Basalt væskebehov, 80 kg&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;+ Ønsket diurese på 1 ml/kg/time: 2000 mL&lt;/li&gt;
-&lt;li&gt;+ perspiratio insensibilis (10 mL/kg/døgn): 800 mL&lt;/li&gt;
-&lt;li&gt;+ perspiratio sensibilis: 300 mL&lt;/li&gt;
-&lt;li&gt;– oxidationsvand (~ 0,03 ml/kJ): -300 mL&lt;/li&gt;
-&lt;li&gt;Alt i alt behov for indtag: 2.800 mL&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Det basale væskebehov: 30-35 ml/kg/døgn&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;basisbehovet&#34;&gt;Basisbehovet&lt;/h2&gt;
-
-&lt;p&gt;Opgivet ud fra det enkelte stof&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Stof&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Mængde&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Vand&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;30-35 ml/kg/døgn&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1-1,5 mmol/kg/døgn&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0,5-1 mmol/kg/døgn&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Glc&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2g/kg/døgn&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Opgivet ud fra mængden af væskeindtag&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Stof&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Mængde&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Vand&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;30-35 ml/kg/døgn&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;40 mmol/l vand&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;20 mmol/l vand&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Glc&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;57g /l vand&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;ALt i alt er behovet dækket ved &lt;strong&gt;30-35 ml/kg/døgn KNaG&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;praktisk&#34;&gt;Praktisk&lt;/h2&gt;
-
-&lt;p&gt;Anlæggelse af to venflons: I det ene løber det basale behov – i det andet løber væsker til korrektion af evt. skævheder.&lt;/p&gt;
-</description>
+      <description>Glycocalyx Glycocalyx er medbestemmende for kapillærets permeabilitet.
+Glycocalyx skades ved
+ reperfusions-skade traume/inflammation LDL Hypervolæmi &amp;ndash;&amp;gt; ANP  Væsketyper  Krystalloider med Na+.  Eksempler  NaCl, Ringer acetat/laktat, K+-Na+-Glucose, etc.  Bliver i ECV grundet Na+/K+-pumpen  Ca. 1&amp;frasl;3-1&amp;frasl;4 af indgiven væske vil derfor blive i plasmavolumen, resten i interstitiel væske  Afhængig af glycocalyx og eksisterende væskevolumen.    Kolloider (tykke væsker) &amp;ndash; plasmaexpandere  Eksempler  Voluven (syntetisk kolloider) Albumin  Bliver (ideelt set) i blodbanen.</description>
     </item>
     
     <item>
@@ -1333,190 +107,7 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Wed, 08 Feb 2017 08:17:51 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/billeddiagnostik-kar/</guid>
-      <description>
-
-&lt;h2 id=&#34;værktøjskassen&#34;&gt;Værktøjskassen&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Teknik&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Princip&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;UL&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Refleksion af lyd&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;CT&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Rtg&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;MR&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Magnetfelt&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Digital subtraktions angiografi (DSA)&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;RTG&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Flebografi&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Rtg&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;ET-CT&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Rtg og radioaktive ståler&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;kontrast&#34;&gt;Kontrast&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Teknik&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Kontrast&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Metode&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;UL&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Ingen kontrast&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Doppler&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;CT&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Jodholdigt IV v cubiti&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Bolus track&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;MR&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Gadolinium&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Subtraktion mellem præ- og postkontrast&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;DSA&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;jodholdigt i a. femoralis&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;subtraktion mellem præ- og postkontrast&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Flebografi&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Jodholdigt&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Injektion under kompression&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;pris&#34;&gt;Pris&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;UL&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;CT&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;MR&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;DSA&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Non-invasin&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Non-invasin&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Non-invasin&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Invasiv&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Billig&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Ret dyr&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Dyr&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Dyr&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;diverse&#34;&gt;Diverse&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;MR kan ikke bruges til at visualisere kalk&lt;/li&gt;
-&lt;li&gt;CT og MR har 95% sens/spec på 95% for stenoser, fx ved claudicatio&lt;/li&gt;
-&lt;li&gt;CT (med kontrast) er bedst til
-
-&lt;ul&gt;
-&lt;li&gt;CT med kontrast er lidt bedre end MR til dissektioner.
-
-&lt;ul&gt;
-&lt;li&gt;MR kan dog benyttes til kontrol&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;At visualisere kalk&lt;/li&gt;
-&lt;li&gt;Lungeembolier&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;MR er bedst til
-
-&lt;ul&gt;
-&lt;li&gt;Multifasescanninger af kar (CT ville være for strålebelastende)&lt;/li&gt;
-&lt;li&gt;MR uden kontrast til karfremstilling i truncus&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;dsa&#34;&gt;DSA&lt;/h2&gt;
-
-&lt;h3 id=&#34;protokol&#34;&gt;Protokol&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Afdækning/desinfektion&lt;/li&gt;
-&lt;li&gt;Lokalbdøvelse&lt;/li&gt;
-&lt;li&gt;Incision&lt;/li&gt;
-&lt;li&gt;Karpunktur&lt;/li&gt;
-&lt;li&gt;Guidewire&lt;/li&gt;
-&lt;li&gt;Evt. sheath&lt;/li&gt;
-&lt;li&gt;Kateter&lt;/li&gt;
-&lt;li&gt;Rtg. optagelser +/- kontrast&lt;/li&gt;
-&lt;li&gt;Subtraktions af +kontrast fra &amp;ndash;kontrast&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;valg-af-undersøgelse&#34;&gt;Valg af undersøgelse&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kan UL give svaret?
-
-&lt;ul&gt;
-&lt;li&gt;Tilgængeligt og overkommeligt undersøgelsesfelt&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kan pt tåle CT?
-
-&lt;ul&gt;
-&lt;li&gt;Strålehygiejne&lt;/li&gt;
-&lt;li&gt;Nyrefunktion&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;MR, som alternativet
-
-&lt;ul&gt;
-&lt;li&gt;Nyrefunktion&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;DSA
-
-&lt;ul&gt;
-&lt;li&gt;Ved forventet behov for terapi&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Værktøjskassen    Teknik Princip     UL Refleksion af lyd   CT Rtg   MR Magnetfelt   Digital subtraktions angiografi (DSA) RTG   Flebografi Rtg   ET-CT Rtg og radioaktive ståler    Kontrast    Teknik Kontrast Metode     UL Ingen kontrast Doppler   CT Jodholdigt IV v cubiti Bolus track   MR Gadolinium Subtraktion mellem præ- og postkontrast   DSA jodholdigt i a.</description>
     </item>
     
     <item>
@@ -1525,66 +116,7 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Wed, 08 Feb 2017 09:15:17 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/ekkokardiografi/</guid>
-      <description>
-
-&lt;h2 id=&#34;fordele-og-ulemper&#34;&gt;Fordele og ulemper&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fordele
-
-&lt;ul&gt;
-&lt;li&gt;Ufarlig&lt;/li&gt;
-&lt;li&gt;Her og nu visning af hjertets strutkurer og funktion&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Ulemper
-
-&lt;ul&gt;
-&lt;li&gt;Akustisk vindue begrænset af ribben, lunger&lt;/li&gt;
-&lt;li&gt;Høj skannefrekvens &amp;gt;&amp;gt; fin opløsning men lav ultralydspenetration (og omvendt)&lt;/li&gt;
-&lt;li&gt;Udførelse og tolkning kræver erfaring&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;indikationer&#34;&gt;Indikationer&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Uafklaret åndenød&lt;/li&gt;
-&lt;li&gt;Uafklaret mislyd ved hjertestetoskopi&lt;/li&gt;
-&lt;li&gt;Uafklarede brystmserter&lt;/li&gt;
-&lt;li&gt;Klinisk mistanke om hjertesvigt&lt;/li&gt;
-&lt;li&gt;Hæmodynamisk ustabil eller shockeret patient&lt;/li&gt;
-&lt;li&gt;Feber med mulig kardiel årsag (endokardit)&lt;/li&gt;
-&lt;li&gt;Emboli af mulig kardiel årsag&lt;/li&gt;
-&lt;li&gt;Hjerterytmeforstyrrelse
-
-&lt;ul&gt;
-&lt;li&gt;Særligt ved AFLI, da AFLI ofte blot er et symptom på anden patologi&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ekkoterminologi&#34;&gt;Ekkoterminologi&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Begreb&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Forklaring&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;EF&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Ejection fraction. Normalt 60%.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Gradient&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Trykfald over forsnævring.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <description>Fordele og ulemper  Fordele  Ufarlig Her og nu visning af hjertets strutkurer og funktion  Ulemper  Akustisk vindue begrænset af ribben, lunger Høj skannefrekvens &amp;gt;&amp;gt; fin opløsning men lav ultralydspenetration (og omvendt) Udførelse og tolkning kræver erfaring   Indikationer  Uafklaret åndenød Uafklaret mislyd ved hjertestetoskopi Uafklarede brystmserter Klinisk mistanke om hjertesvigt Hæmodynamisk ustabil eller shockeret patient Feber med mulig kardiel årsag (endokardit) Emboli af mulig kardiel årsag Hjerterytmeforstyrrelse  Særligt ved AFLI, da AFLI ofte blot er et symptom på anden patologi   Ekkoterminologi    Begreb Forklaring     EF Ejection fraction.</description>
     </item>
     
     <item>
@@ -1593,141 +125,9 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Wed, 08 Feb 2017 10:16:48 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/hjertestetoskopi/</guid>
-      <description>
-
-&lt;p&gt;Foretages&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Screening for klapsygdomme&lt;/li&gt;
-&lt;li&gt;Ved ny akut tilstand &amp;ndash; pludselig dyspnø, alment dårlig, shock eller feber &amp;hellip;
-
-&lt;ul&gt;
-&lt;li&gt;MI&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: kordaruptur&lt;/li&gt;
-&lt;li&gt;VSD&lt;/li&gt;
-&lt;li&gt;Papillær muskelruptur ved AMI,&lt;/li&gt;
-&lt;li&gt;Aortainsufficiens ved aortadissektion&lt;/li&gt;
-&lt;li&gt;AI/MI ved endokarditis; overhørt mislyd/overset AS eller andet&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Når svage hjertelyde: stetoskopi ikke diagnostisk. Manglende mislyde udelukker ikke klapsygdom.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cor lungedækket&lt;/li&gt;
-&lt;li&gt;Adipositas&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;mislyde-skyldes&#34;&gt;Mislyde skyldes&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hjerteklapsygdomme
-
-&lt;ul&gt;
-&lt;li&gt;Aortastenose&lt;/li&gt;
-&lt;li&gt;Aortainsufficiens&lt;/li&gt;
-&lt;li&gt;Mitralinsufficiens&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Pericarditis (klaputæthed)&lt;/li&gt;
-&lt;li&gt;VSD (ventrikelseptum-defekt)&lt;/li&gt;
-&lt;li&gt;Coarctatio Aorta&lt;/li&gt;
-&lt;li&gt;DAP (ductus arteriosus persistens; ikke pensum)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;hvor-lyttes&#34;&gt;Hvor lyttes?&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Sted&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Forklaring&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Basis cordis&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Aortastenose&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Venstra sternal rand&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Aortainsufficiens&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Apex cordis&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Mitralinsufficiens&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;mislydsguiden&#34;&gt;Mislydsguiden&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aortastenose
-
-&lt;ul&gt;
-&lt;li&gt;Høres bedst over basis cordis&lt;/li&gt;
-&lt;li&gt;Systolisk mislyd&lt;/li&gt;
-&lt;li&gt;Kan evt. dække/udslette 2. hjertelyd.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Mitralinsufficiens
-
-&lt;ul&gt;
-&lt;li&gt;Høres bedst over apex cordis&lt;/li&gt;
-&lt;li&gt;Systolisk mislyd&lt;/li&gt;
-&lt;li&gt;Ret højfrekvente&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Aortainsufficiens
-
-&lt;ul&gt;
-&lt;li&gt;Høres bedst ved venstra sternalrand&lt;/li&gt;
-&lt;li&gt;Diastolisk mislyd&lt;/li&gt;
-&lt;li&gt;Systolisk mislyd pga. stort slagvolumen&lt;/li&gt;
-&lt;li&gt;Stort pulstryk&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Ventrikelseptumdefekt
-
-&lt;ul&gt;
-&lt;li&gt;Høres bedst over venstra sternalrand&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;beskrivelse-af-mislyde&#34;&gt;Beskrivelse af mislyde&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Timing: Systolisk el. diastolisk&lt;/li&gt;
-&lt;li&gt;Maksimum: basis, sternalrand, apix&lt;/li&gt;
-&lt;li&gt;Evt udstråling&lt;/li&gt;
-&lt;li&gt;Styrke&lt;/li&gt;
-&lt;li&gt;Karateren&lt;/li&gt;
-&lt;li&gt;Diagnoseforslag&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ved nyerkendt eller nyopstået mislyd: &lt;strong&gt;HENVIS TIL EKKO&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;fysiologiske-mislyde&#34;&gt;Fysiologiske mislyde&lt;/h4&gt;
-
-&lt;p&gt;Mislyd som ikke skyldes sygdom men normale fysiologisk forhold medfører flowmislyd: anæmi, stort SV, graviditet&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mislyden melodiøs&lt;/li&gt;
-&lt;li&gt;Protosystolisk&lt;/li&gt;
-&lt;li&gt;Højst styrke &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;Langs ve.sternalrand&lt;/li&gt;
-&lt;li&gt;Ingen projektion&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;MI: Mitralinsufficiens, AI: Aortainsufficiens
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[tilbage]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>Foretages
+ Screening for klapsygdomme Ved ny akut tilstand &amp;ndash; pludselig dyspnø, alment dårlig, shock eller feber &amp;hellip;  MI1: kordaruptur VSD Papillær muskelruptur ved AMI, Aortainsufficiens ved aortadissektion AI/MI ved endokarditis; overhørt mislyd/overset AS eller andet   Når svage hjertelyde: stetoskopi ikke diagnostisk. Manglende mislyde udelukker ikke klapsygdom.
+ Cor lungedækket Adipositas &amp;hellip;  Mislyde skyldes  Hjerteklapsygdomme  Aortastenose Aortainsufficiens Mitralinsufficiens  Pericarditis (klaputæthed) VSD (ventrikelseptum-defekt) Coarctatio Aorta DAP (ductus arteriosus persistens; ikke pensum)  Hvor lyttes?</description>
     </item>
     
     <item>
@@ -1736,168 +136,8 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Wed, 08 Feb 2017 11:15:24 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/bronkoskopi/</guid>
-      <description>
-
-&lt;p&gt;Man kan kigge ud i segmenterne men ikke helt ud i terminale forgreninger. Med UL kan man komme endnu længere ud.&lt;/p&gt;
-
-&lt;h2 id=&#34;bronkoskopityper&#34;&gt;Bronkoskopityper&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Rigid bronkoskopi&lt;/li&gt;
-&lt;li&gt;Fleksibel bronkoskopi
-
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Alm.&amp;rdquo; bronkoskopi&lt;/li&gt;
-&lt;li&gt;EBUS og EUS
-
-&lt;ul&gt;
-&lt;li&gt;EBUS: EndoBronchialUltralydsScanning
-
-&lt;ul&gt;
-&lt;li&gt;Kan nå lymfeknuder i mere terminale forgreninger af bronchietræet&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;EUS: EndoskopiskUltranlydsScanning (gastroskopisk)
-
-&lt;ul&gt;
-&lt;li&gt;Kan nå lymfeknuder/væv omkring gaster, lever, venstre binyre&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Kan ikke stille diagnosen lymfom, da de er cytologiske prøver. Lymfom kræver en mediastinoskopi&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;EMN (elektromagnetisk navigationsbronkoskopi)
-
-&lt;ul&gt;
-&lt;li&gt;Teknik for at komme mere perifert end man kan se – CT vejledt guide til infiltrat.&lt;/li&gt;
-&lt;li&gt;Kan erstattes af dygtige radiologers perkutante biopsitagning&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Kan bruges diagnostisk eller terapeutisk&lt;/p&gt;
-
-&lt;p&gt;Adgange&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nasal
-
-&lt;ul&gt;
-&lt;li&gt;Foretrækkes,&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Oral&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;indikationer-og-kontraindikationer&#34;&gt;Indikationer og kontraindikationer&lt;/h2&gt;
-
-&lt;h3 id=&#34;indikationer&#34;&gt;Indikationer&lt;/h3&gt;
-
-&lt;h4 id=&#34;almindelig-bronkoskopi&#34;&gt;Almindelig bronkoskopi&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Diagnostisk
-
-&lt;ul&gt;
-&lt;li&gt;Hoste (persisterende, uforklaret)&lt;/li&gt;
-&lt;li&gt;Hæmoptyse
-
-&lt;ul&gt;
-&lt;li&gt;Selv ved negativ CT-scanning, der &lt;em&gt;kan&lt;/em&gt; have overset en tumor&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Hæshed/stridor&lt;/li&gt;
-&lt;li&gt;Infiltrat/atelektase på rtg/CT (inf./malignitet/interstitielle lungesygdomme)&lt;/li&gt;
-&lt;li&gt;Rejektion ved lungetransplantation&lt;/li&gt;
-&lt;li&gt;Tracheobronchomalaci
-
-&lt;ul&gt;
-&lt;li&gt;blød, eftergivelig brusk &amp;ndash; astmalignende symptomer&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Thoraxtraume&lt;/li&gt;
-&lt;li&gt;Fistel&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Terapeutisk
-
-&lt;ul&gt;
-&lt;li&gt;Fjernelse af fremmedlegeme&lt;/li&gt;
-&lt;li&gt;Anlæggelse/fjernelse af stent&lt;/li&gt;
-&lt;li&gt;Ventiler
-
-&lt;ul&gt;
-&lt;li&gt;Aflukning af lungeafsnit ved emfysem&lt;/li&gt;
-&lt;li&gt;Sekret/luft kan fortsat flyde ud (1-vejs-ventil)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lokalbehandling af tumor&lt;/li&gt;
-&lt;li&gt;Bronchial thermoplastik
-
-&lt;ul&gt;
-&lt;li&gt;Til behandling af svær astma.&lt;/li&gt;
-&lt;li&gt;Brænder fortykket muscularis af.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;ebus-og-eus&#34;&gt;EBUS og EUS&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Stadieinddeling ved c. pulm. (kurabel/ikkekurabel)&lt;/li&gt;
-&lt;li&gt;Diagnostisk af centralt belliggende tumorer&lt;/li&gt;
-&lt;li&gt;Sarkoidose&lt;/li&gt;
-&lt;li&gt;Mediastinal metastasering fra andre cancersygdomme&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;kontraindikationer&#34;&gt;Kontraindikationer&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Myocardieiskæmi&lt;/li&gt;
-&lt;li&gt;Hjertesvigt&lt;/li&gt;
-&lt;li&gt;Brady-/takykardi&lt;/li&gt;
-&lt;li&gt;Akut exacerbation i asthma/KOL&lt;/li&gt;
-&lt;li&gt;Øget blødningsrisiko&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Informret samtykke&lt;/li&gt;
-&lt;li&gt;Faste (2-6 timer før)&lt;/li&gt;
-&lt;li&gt;Forprøver &amp;ndash; EKG, blodprøver (Hb, koag.), sat, spirometri&lt;/li&gt;
-&lt;li&gt;Lokalanæstesi &amp;ndash; lidocain&lt;/li&gt;
-&lt;li&gt;Sedation (midazolam, fentanyl)&lt;/li&gt;
-&lt;li&gt;(Geneerel anæstesi)&lt;/li&gt;
-&lt;li&gt;Ambulant procedure&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;komplikationer&#34;&gt;Komplikationer&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lavt BT, laryngo/bronchospasme, epistaxis, blødning, kvalme/opkastning&lt;/li&gt;
-&lt;li&gt;Respirationsinsufficiens
-
-&lt;ul&gt;
-&lt;li&gt;Særligt ved i forvejen lav lungefunktion&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Hjertearrytmi&lt;/li&gt;
-&lt;li&gt;Pneumothorax
-
-&lt;ul&gt;
-&lt;li&gt;Særligt ved emfysem/emfysembullae og børstebiopsi&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Infektion (hyppigst)
-
-&lt;ul&gt;
-&lt;li&gt;Typisk forbigående&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;cryobioptering&#34;&gt;Cryobioptering&lt;/h2&gt;
-
-&lt;p&gt;Brug&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Diagnostik af interstitielle lungesygdomme&lt;/li&gt;
-&lt;li&gt;Diagnostik af cacner&lt;/li&gt;
-&lt;li&gt;Terapeutisk rekanalisering&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tillader at tage 1-6 cm store biopsier – kan i 80% af tilfældene stille diagnosen.&lt;/p&gt;
-</description>
+      <description>Man kan kigge ud i segmenterne men ikke helt ud i terminale forgreninger. Med UL kan man komme endnu længere ud.
+Bronkoskopityper  Rigid bronkoskopi Fleksibel bronkoskopi  &amp;ldquo;Alm.&amp;rdquo; bronkoskopi EBUS og EUS  EBUS: EndoBronchialUltralydsScanning  Kan nå lymfeknuder i mere terminale forgreninger af bronchietræet  EUS: EndoskopiskUltranlydsScanning (gastroskopisk)  Kan nå lymfeknuder/væv omkring gaster, lever, venstre binyre  Kan ikke stille diagnosen lymfom, da de er cytologiske prøver.</description>
     </item>
     
     <item>
@@ -1906,173 +146,7 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Thu, 09 Feb 2017 08:17:02 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/rtg-thorax/</guid>
-      <description>
-
-&lt;h2 id=&#34;det-perfekte-røntgen-af-thorax&#34;&gt;Det &amp;ldquo;perfekte&amp;rdquo; røntgen af thorax&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Optagelser skal være
-
-&lt;ul&gt;
-&lt;li&gt;Veleksponered
-
-&lt;ul&gt;
-&lt;li&gt;mediastinale strukturer&lt;/li&gt;
-&lt;li&gt;lunger&lt;/li&gt;
-&lt;li&gt;knogle&lt;/li&gt;
-&lt;li&gt;bløddele&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Velindblændede, til bløddele&lt;/li&gt;
-&lt;li&gt;Velcentrerede&lt;/li&gt;
-&lt;li&gt;Sidebillede med &amp;ldquo;indbygget skævhed&amp;rdquo;, ca 1-1.5 cm&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;systematisk-gennemgang&#34;&gt;Systematisk gennemgang&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Medastinum og hjerte: Størrelse, form og lejring&lt;/li&gt;
-&lt;li&gt;Lungefelterne: karstruktur, gennemskinnelighed, abnorme fortætninger m.v.&lt;/li&gt;
-&lt;li&gt;Pleurae: luft, væske, kalk, tumor&lt;/li&gt;
-&lt;li&gt;Thoraxskelet: destruktioner, osteosclerose, fraktur&lt;/li&gt;
-&lt;li&gt;Bløddele: tumor, forkalkninng&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;hjertet&#34;&gt;Hjertet&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Under halvdelen af thorax&amp;rsquo; bredde&lt;/li&gt;
-&lt;li&gt;Aorta skal være under halvdelen af hjertets bredde&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;hvad-skal-kunne-ses&#34;&gt;Hvad skal kunne ses&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cardiovaskulær
-
-&lt;ul&gt;
-&lt;li&gt;Stase &amp;ndash; inkompensation&lt;/li&gt;
-&lt;li&gt;Klapsygdomme&lt;/li&gt;
-&lt;li&gt;Aneurismer&lt;/li&gt;
-&lt;li&gt;Lungeembolier&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Infektioner&lt;/li&gt;
-&lt;li&gt;Atelaktase&lt;/li&gt;
-&lt;li&gt;Pneumothorax&lt;/li&gt;
-&lt;li&gt;Tumorer&lt;/li&gt;
-&lt;li&gt;Traumer&lt;/li&gt;
-&lt;li&gt;Restriktive&lt;/li&gt;
-&lt;li&gt;Obstr&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;cardiovaskulær&#34;&gt;Cardiovaskulær&lt;/h3&gt;
-
-&lt;h4 id=&#34;stase&#34;&gt;Stase&lt;/h4&gt;
-
-&lt;p&gt;Øget blodfylde af væv som følge af nedsat afløb. Evt. pga. øget venetryk. Ophobning af væske i vævet.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lungeødem
-
-&lt;ul&gt;
-&lt;li&gt;Årsag
-
-&lt;ul&gt;
-&lt;li&gt;akut forhøjet tryk i lungekaillærer&lt;/li&gt;
-&lt;li&gt;pludseligt forøget blodvolumen&lt;/li&gt;
-&lt;li&gt;øget kapillær-permeabilitet (infektion, inflammation, indånding af irritanter)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Tegn
-
-&lt;ul&gt;
-&lt;li&gt;Flow shift apikalt (tydelige kar apikalt)&lt;/li&gt;
-&lt;li&gt;Prominerende hilusskygger (batswing)&lt;/li&gt;
-&lt;li&gt;Dilaterede vener&lt;/li&gt;
-&lt;li&gt;Interstitielt ødem (Kerley lines)&lt;/li&gt;
-&lt;li&gt;Alveolært ødem (manifest lungeødem)&lt;/li&gt;
-&lt;li&gt;Pleuratranssudat (først højre side)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;aspiration&#34;&gt;Aspiration&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vattede infiltrater&lt;/li&gt;
-&lt;li&gt;Oftest i flere lobi&lt;/li&gt;
-&lt;li&gt;Ofetst bilat.&lt;/li&gt;
-&lt;li&gt;Svært dårlig patient.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;atelaktase&#34;&gt;Atelaktase&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Displacering af fissurer, kar og bronchi&lt;/li&gt;
-&lt;li&gt;Konsolidering&lt;/li&gt;
-&lt;li&gt;Ofte luftbrokogram&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;obstruktion&#34;&gt;Obstruktion&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Interne årsager
-
-&lt;ul&gt;
-&lt;li&gt;Tumor&lt;/li&gt;
-&lt;li&gt;Mucus&lt;/li&gt;
-&lt;li&gt;Frememedlegeme&lt;/li&gt;
-&lt;li&gt;Inflammation&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Eksterne årsager
-
-&lt;ul&gt;
-&lt;li&gt;Lymfeknuder
--&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pneumothorax&#34;&gt;Pneumothorax&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Inddeling
-
-&lt;ul&gt;
-&lt;li&gt;Almindelig&lt;/li&gt;
-&lt;li&gt;Tryk (ved traumer, akutte)
-
-&lt;ul&gt;
-&lt;li&gt;Dør pga. kink af venøst tilbageløb til hjertet&lt;/li&gt;
-&lt;li&gt;Kan kendes på øget afstand mellem costae&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Pitfall&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Typer
-
-&lt;ul&gt;
-&lt;li&gt;Primær
-
-&lt;ul&gt;
-&lt;li&gt;Spontan&lt;/li&gt;
-&lt;li&gt;Familiær&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Sekundære
-
-&lt;ul&gt;
-&lt;li&gt;Obstruktinoer&lt;/li&gt;
-&lt;li&gt;infektioner&lt;/li&gt;
-&lt;li&gt;infarkt&lt;/li&gt;
-&lt;li&gt;neoplasier&lt;/li&gt;
-&lt;li&gt;diffuse lungelidelser&lt;/li&gt;
-&lt;li&gt;midtcyklus&lt;/li&gt;
-&lt;li&gt;arvelige bindevævslielser&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;visualisering&#34;&gt;Visualisering&lt;/h4&gt;
-
-&lt;p&gt;Følg pleura hele vejen rundt!&lt;/p&gt;
-</description>
+      <description>Det &amp;ldquo;perfekte&amp;rdquo; røntgen af thorax  Optagelser skal være  Veleksponered  mediastinale strukturer lunger knogle bløddele  Velindblændede, til bløddele Velcentrerede Sidebillede med &amp;ldquo;indbygget skævhed&amp;rdquo;, ca 1-1.5 cm   Systematisk gennemgang  Medastinum og hjerte: Størrelse, form og lejring Lungefelterne: karstruktur, gennemskinnelighed, abnorme fortætninger m.v. Pleurae: luft, væske, kalk, tumor Thoraxskelet: destruktioner, osteosclerose, fraktur Bløddele: tumor, forkalkninng  Hjertet  Under halvdelen af thorax&amp;rsquo; bredde Aorta skal være under halvdelen af hjertets bredde  Hvad skal kunne ses  Cardiovaskulær  Stase &amp;ndash; inkompensation Klapsygdomme Aneurismer Lungeembolier  Infektioner Atelaktase Pneumothorax Tumorer Traumer Restriktive Obstr  Cardiovaskulær Stase Øget blodfylde af væv som følge af nedsat afløb.</description>
     </item>
     
     <item>
@@ -2081,8 +155,209 @@ timer, renal udskillelse.&lt;/p&gt;
       <pubDate>Thu, 09 Feb 2017 09:22:10 +0100</pubDate>
       
       <guid>http://hlk.morsby.dk/forelaesning/ct-thorax/</guid>
-      <description>&lt;p&gt;Ingen noter.&lt;/p&gt;
-</description>
+      <description>Ingen noter.</description>
+    </item>
+    
+    <item>
+      <title>Postoperativ smertebehandling</title>
+      <link>http://hlk.morsby.dk/forelaesning/postop-smertebehandling/</link>
+      <pubDate>Thu, 09 Feb 2017 10:14:54 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/postop-smertebehandling/</guid>
+      <description>Smerteanamnese  Oplysninger om patienten  Alder, vægt, andre sygdomme, anden medicin, psykosocialt Årsag, diagnose, prognose Aktuel sygdom/op  Oplysninger om smerterne  Intensitet Tidligere/aktuel behandling Lokalitet Periodicitet Søvn Type   Standardordination    Stof Mængde     Paracetamol 1 g x 4 (børn efter vægt, leversyge)   Ibuprofen 400 mg x 3 (hæmmer knogleheling, obs. hjertesvage)   Malfin (depotmorfin) Kan erstatte ibuprofen. 10 mg x 2   Nerveblokader Særligt ortopædkirurgi i ekstremiteter.</description>
+    </item>
+    
+    <item>
+      <title>Nuklearmedicinske kardiologiske undersøgelser</title>
+      <link>http://hlk.morsby.dk/forelaesning/nuklearmedicinske-kardiologiske-us/</link>
+      <pubDate>Thu, 09 Feb 2017 11:15:10 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/nuklearmedicinske-kardiologiske-us/</guid>
+      <description>Undersøgelser  Myokardieskintigrafi (hjerte-SPECT) Rubidium PET FDG hjerte PET (viability) Isotopkardiografi  Myokardieskintigrafi (SPECT)  Måler regional perfusionsfordeling i myokardiet Sporstof gives under max hjertebelastning  Evt. også hvile Belastning via (prioriteret)  ergometerbelastning vasodilataton  forstyrres ved kaffeindtag inden for 2 døgn  dobutamin   Billeder  Radioaktive lægemidler  Kun få procent optages i myokardiet Resten udskills uomdannet via lever og galdeveje  Kan foretage måling en time senere  Optages i fungerende myocytter Ingen redistribution &amp;ndash; sporstof sidder fast Afspejler perfusion på injektionstidspunktet  Billedoptagelsen  Ca 1&amp;frasl;2-1 time efter indgift Dedikeret hjertegammakamera eller alm.</description>
+    </item>
+    
+    <item>
+      <title>Håndtering af tobaksrelaterede sygdomme</title>
+      <link>http://hlk.morsby.dk/forelaesning/haandtering-af-tobaksygdomme/</link>
+      <pubDate>Thu, 09 Feb 2017 12:15:34 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/haandtering-af-tobaksygdomme/</guid>
+      <description>Nikotinsubstitution  Fordobler ophørsraten hos patienter der ryger &amp;gt; 10 cig/dag Typer  Plaster  Enkelt at administrere, afgiver konstant mængde  Tyggegummi, inhalator, resoribletter, nasalspray  Mulighed for selvtitrering og dosisjustering   Inhalatorer og tyggegummi hos ikke-motiverede  10% ophørte 50% nedsatte forbrug til &amp;lt; 50%.   Psykofarmaka  Vareniclin (Champix)  Partiel agonist for nikotin-acetylkolinreceptorer i hjernen. Imiterer nikotins dopaminfrigørende effekt og blokerer for nikotinet, hvis patienten ryger.</description>
+    </item>
+    
+    <item>
+      <title>Pectus-deformiteter</title>
+      <link>http://hlk.morsby.dk/forelaesning/pectus-deformiteter/</link>
+      <pubDate>Wed, 15 Mar 2017 08:19:09 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/pectus-deformiteter/</guid>
+      <description>Pectus excavatum Fakta  Incidens 1 / 300-400 – 1&amp;frasl;1000 Mænd/kvinder: 3&amp;frasl;1 85% ses i de første leveår. 40% familiehistorie  Symptomer  Exerciseintolerance Manglende udholdened Forpustet/dyspnø Smerter/ubehag i brystvæg vde træning Generelle smerter/ubehag i brystvæg  Associationer  Asthma Scoliosis Mitral valve prolapse  Operationsindikation  90% kosmetisk Quality of life &amp;ndash; significant improvement  Om ikke andet psykosocialt  Lungefunktion Hjertefunktion  Paraklinik: Rtg. thorax  AP-billede: Svært at se &amp;ndash; evt.</description>
+    </item>
+    
+    <item>
+      <title>Pneumothorax og pleuradræn</title>
+      <link>http://hlk.morsby.dk/forelaesning/pneumothorax-pleuradraen/</link>
+      <pubDate>Wed, 15 Mar 2017 09:12:20 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/pneumothorax-pleuradraen/</guid>
+      <description>Pneumothorax Definition Luft mellem de to pleurablade.
+ Luftblærer i lungevæv er bullae Luft i thoraxvæggen er subcutant emfysem Luft i mediastenum er mediastinalt emfysem  Forekomst  Prævalens ca. 500/år Mand/kvinde: 2-5:1 Høje-tynde personer Ryger/ikke-ryger: 3:1 Hash/ikke-hash: 5:1  Symptomer  Hoste Åndenød Smerter  Diagnose  Anamnese: Åndenød,smerter, hoste Obj.  Dyspnø Smertepåvirket Hoste Stetoskopi: svækkede respirationslyde Perkussion &amp;ndash; rungende perkussionslyde  Rtg. thorax  Trykpneumothorax  Dyspnø, smerte, hoste, ellers men også  svag hurtig puls lavt blodtryk halsvenestase  pga.</description>
+    </item>
+    
+    <item>
+      <title>Mediastinale tumorer</title>
+      <link>http://hlk.morsby.dk/forelaesning/mediastinale-tumorer/</link>
+      <pubDate>Wed, 15 Mar 2017 10:19:48 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/mediastinale-tumorer/</guid>
+      <description>Mediastinum: Media=midt (imellem), stinum=lunger
+Sjældne tumorer, hyppigst 30-50 år
+Inddeling Anteriore mediastinale tumorer  Hyppigst hos børn Germinalcelle  teratom (10%) seminom non-seminom  Lymfom (13%) Thymom (18%) Thyroidea  Midterste medisastinale tumorer  Bronkogene cyster Perikardiecyster (20%) Lymfadenopati Thyoroidea (6%) Tracheale tumorer Vaskulære &amp;ldquo;tumorer&amp;rdquo; &amp;ndash; aneurisme, dissektion  Posteriore mediastinale tumorer  Lymfadenopati Neurogene tumorer (20%) Neuroenteriske cyster Extramedullær hæmatopoiesis  Symptomer og fund  Afhænger af type, lokalisation og størrelse.</description>
+    </item>
+    
+    <item>
+      <title>KOL</title>
+      <link>http://hlk.morsby.dk/forelaesning/kol/</link>
+      <pubDate>Wed, 15 Mar 2017 11:15:04 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/kol/</guid>
+      <description>Definition KOL, en hyppig sygdom der kan forebygges og behandles, er karakteriseret ved persisterende luftvejdsmodstand, som vanligvis er progredierende og associeret med et forstærket inflammatorisk respons i lunger og luftveje på partikler gasser.
+Exacerbationer og komorbiditeter bidrager til sygdommens sværhedsgrad hos den enkelte patient.
+eller, mere håndgribeligt:
+kronisk nedsat lungefunktion af obstruktiv type (FEV1/FVC &amp;lt; 70%) + symptomer.
+Faktorer af betydning for spirometri-resultat    Konstante Variable     Alder Kontraindikationer (fx nyligt AMI)   Køn Nylig luftvejsinfektion   Højde Undersøger &amp;ndash; patient   (Etnicitet)     Spirometri-fejlkilder  For kort varighed (mangl.</description>
+    </item>
+    
+    <item>
+      <title>Venesygdomme</title>
+      <link>http://hlk.morsby.dk/forelaesning/venesygdomme/</link>
+      <pubDate>Wed, 22 Mar 2017 08:18:21 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/venesygdomme/</guid>
+      <description>Inddeling  Varicer  Primære varicer Recidiv/residual varicer  Superficiel venøs tromboflebit Akut iliaco-femoral trombose (vigtigt)  Varicer Definition  Varicer  Slyngede og dilaterede vener &amp;gt; 3 mm  Communikanter: Forbinder de overfladiske vener Perforanter: Forbinder superficielle med profunde vener  Ætiologi  Primære 85%  Superficiel venøs insufficiens  Veneklapinsufficiens &amp;ndash;&amp;gt; refluks   Sekundære, 15%  Dyb venøs insufficiens  Erhvervet  Posttrombotisk syndrom (PTS): refluks, obstruktion  Medfødt  Klippel-Trenaauney: Kapillær malformation, knogleelongation, soft tissue enlargement, dyb vene agenesi og vene aneurisme: refluks og obstruktion  OBS på disse pga.</description>
+    </item>
+    
+    <item>
+      <title>Iskæmi af ekstremiteter</title>
+      <link>http://hlk.morsby.dk/forelaesning/iskaemi-af-ekstremiteter/</link>
+      <pubDate>Wed, 22 Mar 2017 09:06:08 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/iskaemi-af-ekstremiteter/</guid>
+      <description>Hvad sker der ved akut iskæmi?  Smerte + reflektorisk vasospasme Påvirkning af muskler og nerver
+ Muskler
+ Tværstribet muskulatur tåler &amp;lt; 4 timers iskæmi før der optræder nekrose Ømhed af muskulaturen taler for begyndende nekrose Rigiditet =&amp;gt; muskelnekrose  Nerver
+ Særdeles sensitivt for anoksi Aoksi forårsager anæstesi på 15 min Revaskularisering &amp;lt; 12 t, genoprettes nervefunktionen Bevaret neurosensorisk funktion =&amp;gt; limb salvage   Objektive fund ved bleg ekstremitet    Ekstremitetsstatus Fund     Tabt Parese rigiditet (rigor)   Rødt Anæstesi &amp;gt; forfod, nedsat kraft, lægømhed   Gult Forstyrret følsomhed, men normal bevægelighed   Grønt Normal neuromuskulær funktion    Mål  Ankal-arm-indeks (blodtryk):  1-1.</description>
+    </item>
+    
+    <item>
+      <title>Aneurismer</title>
+      <link>http://hlk.morsby.dk/forelaesning/aneurismer/</link>
+      <pubDate>Wed, 22 Mar 2017 10:17:12 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/aneurismer/</guid>
+      <description>Inddeling af aortaaneurismer  Thoracale  Dissekerende A (ascendens) el. B (ikke ascendens) Ikke-dissekerende  Abdominale (oftest infrarenale)  Asymptomatiske Symptomatiske Rumperede kan også inddeles: non-specifikke (hyppigste) inflammatoriske (autoimmun/periaortit/retroperitoneal fibrose) mykotiske (infektion)  Thoracoabdominale  4 typer   Termer  Ægte aneurismer: Alle væglag er inkluderet Pseudoaneurisme aneurismer: traumer, iatrogene Dissekerende aneurismer: fx ved Marfan, traumer, hypertesion  Patogenese  Defekter i arterievæggens opbygning: genetisk/erhvervet Ptt. med aneurisme har forhøjede proteolytiske enzymer i væggen, bl.</description>
+    </item>
+    
+    <item>
+      <title>EKG-cases</title>
+      <link>http://hlk.morsby.dk/forelaesning/ekg-cases/</link>
+      <pubDate>Wed, 22 Mar 2017 11:11:45 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/ekg-cases/</guid>
+      <description>EKG-nøgle  Rytme Frekvens P-takker PR-interval QRS-kompleks: varighed, konfiguration, akse ST-segment T-takker QT-interval  Q-takker er abnorme i AVR, V1(?), III (lidt)</description>
+    </item>
+    
+    <item>
+      <title>Symposie: Brystsmerter</title>
+      <link>http://hlk.morsby.dk/forelaesning/symposie-brystsmerter/</link>
+      <pubDate>Wed, 22 Mar 2017 12:32:43 +0100</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/symposie-brystsmerter/</guid>
+      <description> Diverse noter  Pulsus paradoxus: Fald i BT under inspiration, tegn på tamponade. Kvinders smerter ved AMI er ofte mere diffuse (ubehagelige). STEMI: Akut behandling &amp;ndash; ADP-receptor blokker anbefales kun i helt klassiske tilfælde med lang transporttid pga. risiko for fejlmedicinering ved anden diagnose end STEMI.  </description>
+    </item>
+    
+    <item>
+      <title>Kirurgisk behandling af kar- og coronarsygdomme</title>
+      <link>http://hlk.morsby.dk/forelaesning/kirurgisk-behandling-af-coronar-og-klapsygdomme/</link>
+      <pubDate>Wed, 05 Apr 2017 08:18:08 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/kirurgisk-behandling-af-coronar-og-klapsygdomme/</guid>
+      <description>Hyppigst behandles voksne med aortaklap- eller koronarsygdomme Mortaliteten ved hjertekirurgi er generelt 1-3%.  Hvem opereres (generelt)?  Komorbiditeter (herunder udredning)  Lungefunktion (LFU, særligt FEV1 &amp;ndash; obs &amp;lt; 1 L) Nyrefunktion (S-creatinin &amp;ndash; obs &amp;gt; 100-200) Frailty   Koronarsygdom Hvemm opereres (specifikt)?  Svær sygdom i LAD (1, 2 eller 3 karsyge)  Kirurgi er PCI overlegent i svære tilfælde, når der ses på overlevelsen &amp;gt; 3 år  Kardiameter &amp;gt; 1 mm.</description>
+    </item>
+    
+    <item>
+      <title>Supraaortikale lidelser</title>
+      <link>http://hlk.morsby.dk/forelaesning/supraaortikale-lidelser/</link>
+      <pubDate>Wed, 05 Apr 2017 09:31:44 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/supraaortikale-lidelser/</guid>
+      <description>(Forsinket)
+Definition  Sygdom i kar afgået fra arcus aortae  truncus brachiocephalicus  a. carotis communis dxt. a. subclavia dxt.  a. carotis communis sin. a. subclavia sin.  A. vertebralis (fra a. subclavia) kan ikke opereres/stentes.  Sygdomme  A. carotis int. er ansvarlig for 10% af apopleksier Iskæmi ved funktion af a. subclavia Paragliomer  Carotis-stenose  Problemet er embolisering til  a. retina (ameurosis fugax) a.</description>
+    </item>
+    
+    <item>
+      <title>Sedation og anæstesi</title>
+      <link>http://hlk.morsby.dk/forelaesning/sedation-og-anaestesi/</link>
+      <pubDate>Wed, 05 Apr 2017 10:17:49 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/sedation-og-anaestesi/</guid>
+      <description>Sedation Trappestigen  Amnesi (stesolid) Sedation Generel anæstesi Død  Anæstesi  Kræver tre ting:  Smertefrihed Bevidstløshed Muskelrelaksation  Mindre hyppig efter indførsel af propofol + remifentanil    Monitorering  Cirkulation  BT, puls, ekg, evt. CVP  Respiration  RF, sat, CO2, tidal- og minutvolumen  Diverse  Diureser, temperatur, gasadministration   ASA score    ASA Klinisk     I Rask   II Sygdom med.</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>http://hlk.morsby.dk/forelaesning/abc/</link>
+      <pubDate>Wed, 05 Apr 2017 11:16:08 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/abc/</guid>
+      <description>A: Airway B: Breathing C: Cirkulation D: Disability E: Exposure  Systematisk tilgang  Anamnese Se - føl - lyt  Evt. point of care ultrasound  Monitorering Revurdering  A  Mål: Identificering/etablering af fri og sikker luftvej Anamnese/årsager  Pharynx  Maxillofaciale traumer Bløddelshævelse Tungetilbagefald ved bevidstløshed/hævelse Væske &amp;ndash; blødning/sekret/slin/opkast  Larynx  Fremmedlegeme Hævelse &amp;ndash; allergi, inflammation, traume, forbrænding larynxspasme laryngealt traume  Subglottis  Frememdlegeme Høvelse &amp;ndash; bakteriel tracheitis  Monitorering  SaO2  Vurdering  Bevidstløsthed?</description>
+    </item>
+    
+    <item>
+      <title>Symposie: Væske- og elektrolytbehandling</title>
+      <link>http://hlk.morsby.dk/forelaesning/symposie-vaeske-og-elektrolytbehandling/</link>
+      <pubDate>Wed, 05 Apr 2017 12:32:41 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/symposie-vaeske-og-elektrolytbehandling/</guid>
+      <description>Det basale væskebehov Se forelæsning Basal væskebehandling.
+   Stof Mængde     Vand 30-35 ml/kg/døgn   Na+ 1-1,5 mmol/kg/døgn   K+ 0,5-1 mmol/kg/døgn   Glc 2g/kg/døgn    Man taber KCl i enderne.
+Kritisk syge patienter  Alle skal have ilt (inkl. KOL-ptt.)  15L/min el. Sat &amp;gt; 93%  Hvis i.v. adgange ikke er mulige, da i.o. adgang (ofte humerus)  Væsker  Voluven, Volulyte (plasma ekspandere) &amp;ndash; bruges ikke.</description>
+    </item>
+    
+    <item>
+      <title>Kardiomyopati</title>
+      <link>http://hlk.morsby.dk/forelaesning/kardiomyopati/</link>
+      <pubDate>Wed, 03 May 2017 09:24:02 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/kardiomyopati/</guid>
+      <description>Hvornår tænke på kardiomyopati?  Dyspnoe Hjertestop Pludselig uventet død Abnormt 12-aflednings-EKG Arteriel emboli &amp;ndash; kold arm/stroke Synkope Ventrikulære arytmier  Diagnostik  Eksklusionsdiagnose Udelukkelse af:  IHD hypertensiv hjertesygdom valvulær hjertesygdom kongenit hjertesygdom lungesygdom (cor pulmnoale)   Typer  Dilateret kardio Hypertrofisk Restriktiv Arytmogen hø. ventrikel kardiomyopati (ARVC)  Specifikke  Inflammatorisk (infektion, toksisk, fysisk) Metabolisk (aflejring, endokrin sygdom, thyrotoksikose) Neuromuskulær (Duchenne, Becker etc.) Bindevævs-infiltrativ sygdom (sarkoidosis) Peri-, post-partum  Morfologiske typer  Normal Dilateret ventrikel Hypertrofisk ventrikel  Indløbsbesvær fra atriet &amp;ndash; derfor dilatation af ve.</description>
+    </item>
+    
+    <item>
+      <title>Aortasygdomme</title>
+      <link>http://hlk.morsby.dk/forelaesning/aortasygdomme/</link>
+      <pubDate>Wed, 03 May 2017 10:14:45 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/aortasygdomme/</guid>
+      <description>Aneurisme Dissektion Traumatisk dissektino Penetrerende aterosklerotisk ulcus Coarctatio aorta  Thorakalt aortaaneurisme  75% i rod + ascendens 20% i descendens  Patologisk  Ascendens: &amp;gt; 3.8 cm Descendens: &amp;gt; 2.8 cm  Patoanatomi Behandling  Asymp: Ascendens ≥ 5.5  marfan ≥ 4.5 cm  Descendens ≥ 6.5 cm  Dissektion Definition  Diagnostik  Vanskelig at diagnosticere, &amp;ldquo;1 dissektion per 100 AMI&amp;rsquo;er&amp;rdquo;  Prognose  Alvorlig Mortalitet på ca.</description>
+    </item>
+    
+    <item>
+      <title>Sarkoidose</title>
+      <link>http://hlk.morsby.dk/forelaesning/sarkoidose/</link>
+      <pubDate>Wed, 03 May 2017 11:32:12 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/sarkoidose/</guid>
+      <description>Definition  Systemisk granulomatøs sygdom, primært i lunger og lymfeknuder Årsag ukendt Rammer mest unge mennesker, akut debut  Artrit, erytema nodosum, hilusadenit = Løfgrens syndrom  Alle væv, alle aldre Generelt god prognose  Hyppighed  Incidens højest i Skandinavien, 5-10&amp;frasl;100.000/år  Aftager fra nord til syd Dog hyppig hos afroamerikanere.  Ca. 400 nye tilfælde/år Ophobede udbrud  Familier, årstid, erhverv   Ætiologi  Præcis årsag ukendt Foreslået mekanisme  Genetisk modtagelighed Eksponeringer?</description>
+    </item>
+    
+    <item>
+      <title>Interstitielle lungesygdomme</title>
+      <link>http://hlk.morsby.dk/forelaesning/interstitielle-lungesygdomme/</link>
+      <pubDate>Wed, 03 May 2017 12:32:08 +0200</pubDate>
+      
+      <guid>http://hlk.morsby.dk/forelaesning/interstitielle-lungesygdomme/</guid>
+      <description>Hvad skal man kunne?  Skelne ml. obstr og restr sygdo Foretage relevant anamneseoptagelse Kende til basal udredning Vide lidt om spektret af interstielle lungesygdomme Basal behandling  Klassifikation  Kendt årsag  Rheumatologiske Erhvervsrelateret  Pneumokonioser  Drug-inducced mange flere  Ukendt årsag/idiopatisk  Kronisk fibrotisk idiopatisk Uklassificerbar (10-24%)  Granulomatøse  Sarkoidose Allergisk alveloit  Rodebunker  Anamnese  Eksponeringer  Drugs Andre sygdomme Kemo-eller strålebh Eksponering &amp;ndash; tobak, erhverv, bolig, etc Tobak Familiær disposition  Ko-morbiditet Symptomer  Dyspnø  MRC-score NYHA  Hoste/infektioner/influenza-lignende episoder/vægttab/etc.</description>
     </item>
     
   </channel>
