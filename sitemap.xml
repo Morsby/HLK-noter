@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>http://hlk.morsby.dk/cases/oesophaguscancer/</loc>
@@ -225,6 +224,31 @@
   <url>
     <loc>http://hlk.morsby.dk/forelaesning/interstitielle-lungesygdomme/</loc>
     <lastmod>2017-05-03T12:32:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hlk.morsby.dk/forelaesning/aks/</loc>
+    <lastmod>2017-05-10T08:18:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hlk.morsby.dk/forelaesning/angina-pectoris/</loc>
+    <lastmod>2017-05-10T09:17:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hlk.morsby.dk/forelaesning/pneumoni-bronchiektasier-pleurasygdomme/</loc>
+    <lastmod>2017-05-10T10:15:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hlk.morsby.dk/forelaesning/symposium-lungecancer/</loc>
+    <lastmod>2017-05-10T11:32:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hlk.morsby.dk/forelaesning/symposium-dyspnoe/</loc>
+    <lastmod>2017-05-10T13:32:21+02:00</lastmod>
   </url>
   
   <url>
